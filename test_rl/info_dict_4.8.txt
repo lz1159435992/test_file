@@ -1,0 +1,3191 @@
+{
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/wc/wc20000": [
+        "sat",
+        2.671060800552368,
+        999999999,
+        {
+            "mem_c0000ff0_1776_64": "8390676940"
+        },
+        73.86377382278442,
+        "succeed",
+        0.003,
+        [
+            [
+                "mem_c0000ff0_1776_64",
+                2460729015
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/stat/stat111714": [
+        "sat",
+        100.97336077690125,
+        999999999,
+        {
+            "mem_7fffffffffefed8_2695_64": "6872026317340"
+        },
+        4064.5595421791077,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum87714": [
+        "sat",
+        56.846364974975586,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "5804453649132960383",
+            "unconstrained_ret_fread_unlocked_2814_64": "1976371588538762198",
+            "unconstrained_ret_fread_unlocked_3700_64": "6314411932425439081",
+            "unconstrained_ret_fread_unlocked_2291_64": "8822062055078384652",
+            "unconstrained_ret_fread_unlocked_2353_64": "10498800929702543847",
+            "unconstrained_ret_fread_unlocked_2704_64": "3380376934877846320",
+            "unconstrained_ret_fread_unlocked_3374_64": "9654137757519097218",
+            "unconstrained_ret_fread_unlocked_3485_64": "7505702114485505886",
+            "unconstrained_ret_fread_unlocked_2246_64": "4624766249019125312",
+            "unconstrained_ret_fread_unlocked_2453_64": "2086186640740822208",
+            "unconstrained_ret_fread_unlocked_2213_64": "7078839581327359614",
+            "unconstrained_ret_fread_unlocked_2596_64": "17397610900704143440",
+            "unconstrained_ret_fread_unlocked_3155_64": "6852399919616089894",
+            "unconstrained_ret_fread_unlocked_3046_64": "2815512759776498064",
+            "unconstrained_ret_fread_unlocked_2938_64": "297412681485524319",
+            "unconstrained_ret_fread_unlocked_3265_64": "15571418747827207318",
+            "unconstrained_ret_fread_unlocked_3805_64": "0"
+        },
+        7694.340574979782,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum89993": [
+        "sat",
+        30.234137773513794,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3508_64": "7727782940268035585",
+            "unconstrained_ret_fread_unlocked_3618_64": "13586412530829360206",
+            "unconstrained_ret_fread_unlocked_2959_64": "10663147045788841245",
+            "unconstrained_ret_fread_unlocked_2844_64": "14920297884290824907",
+            "unconstrained_ret_fread_unlocked_2378_64": "11010067367760156402",
+            "unconstrained_ret_fread_unlocked_2613_64": "9981189021066458504",
+            "unconstrained_ret_fread_unlocked_3824_64": "9835147865414956781",
+            "unconstrained_ret_fread_unlocked_3726_64": "5343775181284313522",
+            "unconstrained_ret_fread_unlocked_3068_64": "11907199399433863186",
+            "unconstrained_ret_fread_unlocked_2725_64": "2194319393974219304",
+            "unconstrained_ret_fread_unlocked_3290_64": "3733975358039392336",
+            "unconstrained_ret_fread_unlocked_3400_64": "1549979035562411255",
+            "unconstrained_ret_fread_unlocked_2497_64": "8826689573927453089",
+            "unconstrained_ret_fread_unlocked_3187_64": "17847225918326575043"
+        },
+        3917.902257204056,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq108158": [
+        "sat",
+        33.88130974769592,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_3094_64": "14239840785263841350",
+            "unconstrained_ret_mbrtowc_1698_64": "13734814260185054261",
+            "unconstrained_ret_mbrtowc_2741_64": "18379131529351732418",
+            "mem_1_1518_8": "208",
+            "unconstrained_ret_mbrtowc_3447_64": "4030906438565184454",
+            "unconstrained_ret_mbrtowc_1867_64": "7164838879541854210",
+            "unconstrained_ret_mbrtowc_2224_64": "10914947733094531083",
+            "unconstrained_ret_mbrtowc_2047_64": "8442126921632972808",
+            "unconstrained_ret_mbrtowc_2922_64": "14972993481007347136",
+            "mem_2_1662_1008": "688454785103521717114470431521532143308675585227231460280886555194733742374277772779948821290728593825707452573137882901258002375535830733201563547098379196906165337734864746674964498082072992851425964873039258821892796139913556259825718301778405802692885072943733101169393946207023228880301973802319872",
+            "unconstrained_ret_mbrtowc_2400_64": "3871440628894433321",
+            "unconstrained_ret_mbrtowc_2572_64": "10051646442376306945",
+            "unconstrained_ret_mbrtowc_3274_64": "4877777342344051753",
+            "strlen_1663_64": "57"
+        },
+        1563.3648812770844,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail175255": [
+        "sat",
+        144.7187213897705,
+        999999999,
+        {
+            "k!72350040": "True",
+            "unconstrained_ret_lseek_4874_64": "308722978138780"
+        },
+        3852.6056637763977,
+        "succeed",
+        0.011,
+        [
+            [
+                "unconstrained_ret_lseek_4874_64",
+                846954762422016
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum80529": [
+        "sat",
+        66.41269516944885,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "13815148012827051295",
+            "unconstrained_ret_fread_unlocked_2339_64": "11615127441778946370",
+            "unconstrained_ret_fread_unlocked_2778_64": "15077134585508657290",
+            "unconstrained_ret_fread_unlocked_3006_64": "13701943412322738009",
+            "unconstrained_ret_fread_unlocked_3332_64": "13389076401534005247",
+            "unconstrained_ret_fread_unlocked_3226_64": "13759853933843447809",
+            "unconstrained_ret_fread_unlocked_2275_64": "2176327411409354752",
+            "unconstrained_ret_fread_unlocked_2538_64": "6694073246792365136",
+            "unconstrained_ret_fread_unlocked_3447_64": "2806148156645961745",
+            "unconstrained_ret_fread_unlocked_3662_64": "16667128367362829212",
+            "unconstrained_ret_fread_unlocked_2888_64": "15987466493172383742",
+            "unconstrained_ret_fread_unlocked_3116_64": "5790497036138709143",
+            "unconstrained_ret_fread_unlocked_3557_64": "3995349836265160736",
+            "unconstrained_ret_fread_unlocked_2417_64": "12098678254074802463"
+        },
+        2327.9039912223816,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/factor/factor68676": [
+        "sat",
+        2.0303304195404053,
+        999999999,
+        {
+            "unconstrained_ret_strtoumax_792_64": "11229097032771221630"
+        },
+        316.4361083507538,
+        "succeed",
+        0.014,
+        [
+            [
+                "unconstrained_ret_strtoumax_792_64",
+                2111235884966740090
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who128050": [
+        "sat",
+        44.40009427070618,
+        999999999,
+        {
+            "strlen_5203_64": "4",
+            "strncmp_ret_5029_64": "1",
+            "mem_155_2740_336": "822355008829550381722083356875277564122041241107311316429611019011554594425546611758840403470581760",
+            "mem_2_1858_2712": "404840801172744610091600493627651813424957391464229384187225779173590604022742493991829409635466643491249918115527412323686245547898403814068430115122797271493880877814282728499849749188433496441536074897369391503824987541689826572423358876018846917271680672915329928946451673632922270602749166319702761140534121910394514404078278241955615186169715928134330608729898807728600503888555820183637898587471707538899865860156615632940610902351303533504418263461442312605443934491142977421457061607850706267630112366978493954993683188688936011454703670852126544898850644399397987254851227064670326078894376698712345084464625664573973037155328347109119110280332534851290922451057617320047638740285558641766411856996521635916105905405197980987637795983304327137120162608757782354832649713902562749908383772431328089982644552",
+            "mem_800000000000002d_2221_2712": "19401622756514399878741950356163249169547431962877041174831935273544404303792153256481206463861004008170251191513337016789276618800687614431640442128686409977865620485760306600706591484303515641869372599683404584021749136494228072900933368201207521720559551435875118043880325363758236973794001591086757638419672988764125685550480689507472772598696809048355317475350260031330701699199449437904872416356424726628531473380233483590477806803566793147409428552355120462903272051759548761863002416444955244774584134895781102719355374004847126674135371868736800480055564580932685131204271368680978439811469385518355579514816184228483115212642718653262818265503181551340244268012593866840096524660576239724783305068851057401097605127805232966861857976330631861880636803378119879806638807145393212330423036542063981411434496",
+            "strncmp_ret_5106_64": "1",
+            "strlen_5028_64": "4",
+            "strlen_5105_64": "49",
+            "strlen_5363_64": "4",
+            "mem_8000000000000008_2220_288": "5393993471960767837759211845314115561024984943200701139799084805054585216232010678786",
+            "strlen_5104_64": "4",
+            "strlen_5204_64": "4",
+            "mem_1_1552_8": "47",
+            "strncmp_ret_5205_64": "0"
+        },
+        414.08871150016785,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/pinky/pinky165409": [
+        "sat",
+        11.516772985458374,
+        999999999,
+        {
+            "strlen_2591_64": "1",
+            "strlen_2430_64": "1",
+            "mem_7fffffffffefd31_4121_216": "825978758184762248611121785743893306204314014516320330710122496",
+            "mem_e000000000000000_1526_96": "621397316014885135089401856",
+            "sym_argv2_1_16": "1",
+            "strlen_4006_64": "9",
+            "strlen_2510_64": "0",
+            "strncmp_ret_2592_64": "0",
+            "mem_e00000000000000c_1331_8": "8",
+            "mem_dfffffffffffffe2_1537_240": "621397352908373282508505088",
+            "strlen_3003_64": "1",
+            "mem_7fffffffffefd10_3004_24": "394758",
+            "strncmp_ret_2511_64": "1",
+            "strlen_2508_64": "1",
+            "strlen_2589_64": "1",
+            "mem_e00000000000000d_1527_2712": "4359710655571309393498108201914786800193903540890002889090603959693113762132488864746229663990894165439867401853821704586213654770928010442854549837150770335003342252502117297851504972349810176393742603648539587973026774406552468158951907402773518597481324677035746596949526619376543056414678479103562234727145290429841226811188425420077022999552658919364225167819468163998423506848727413037161404026975931358301015518206108769584131854740673334835988993465747196512877695972665549900168423795087227521357146560038031118130104013101223627397230024682242068340607393525935509555007375937298998749397444524592337826802707353205608146040070708131621222099313953829096826325841586502816304352801830954052817055855335074460780503087515802438638924479062967203826442548029918934100279963097157050745786981031549901733888",
+            "mem_7fffffffffefd13_4120_232": "162394031689189736174935432071266414786708290606638482851327350276610",
+            "strlen_4183_64": "1",
+            "strlen_2432_64": "6",
+            "strlen_2746_64": "0",
+            "sym_argv_0_80": "38056083506548081389312",
+            "strncmp_ret_2433_64": "1",
+            "strlen_4119_64": "1",
+            "sym_argv3_2_16": "2048"
+        },
+        829.9262864589691,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum80523": [
+        "sat",
+        22.899924755096436,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "14860965481104011998",
+            "unconstrained_ret_fread_unlocked_2339_64": "17809372964408262638",
+            "unconstrained_ret_fread_unlocked_2778_64": "3999324811255571748",
+            "unconstrained_ret_fread_unlocked_3006_64": "18146175846992248857",
+            "unconstrained_ret_fread_unlocked_3332_64": "14075097605905891376",
+            "unconstrained_ret_fread_unlocked_3226_64": "5761121079081418720",
+            "unconstrained_ret_fread_unlocked_2275_64": "18312922459867610546",
+            "unconstrained_ret_fread_unlocked_2538_64": "13773121498479029249",
+            "unconstrained_ret_fread_unlocked_3447_64": "16695438840792657908",
+            "unconstrained_ret_fread_unlocked_3662_64": "7987063555303244345",
+            "unconstrained_ret_fread_unlocked_2888_64": "16116522021985189888",
+            "unconstrained_ret_fread_unlocked_3116_64": "17856649670930153479",
+            "unconstrained_ret_fread_unlocked_3557_64": "11088800369963601941",
+            "unconstrained_ret_fread_unlocked_2417_64": "7984864531026623488"
+        },
+        1986.091617822647,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum79286": [
+        "sat",
+        18.69180393218994,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3093_64": "9299996504690526714",
+            "unconstrained_ret_fread_unlocked_2514_64": "15252984632845568121",
+            "unconstrained_ret_fread_unlocked_2757_64": "6938674351729803264",
+            "unconstrained_ret_fread_unlocked_3310_64": "16727334936011753480",
+            "unconstrained_ret_fread_unlocked_2866_64": "17187459971714942976",
+            "unconstrained_ret_fread_unlocked_3203_64": "7836250643424608256",
+            "unconstrained_ret_fread_unlocked_3533_64": "10731726509745111056",
+            "unconstrained_ret_fread_unlocked_3642_64": "6963243185360303593",
+            "unconstrained_ret_fread_unlocked_2321_64": "17274814645301968433",
+            "unconstrained_ret_fread_unlocked_2982_64": "9211561135546097952",
+            "unconstrained_ret_fread_unlocked_2634_64": "11664325077780354147",
+            "unconstrained_ret_fread_unlocked_3421_64": "13074649060265164801",
+            "unconstrained_ret_fread_unlocked_2395_64": "5410931935260210174"
+        },
+        118.13523817062378,
+        "succeed",
+        9.021,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2514_64",
+                8395999381022572544
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_2321_64",
+                5431341150608818146
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum78725": [
+        "sat",
+        6.623250246047974,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3508_64": "15552400659868286988",
+            "unconstrained_ret_fread_unlocked_3068_64": "3364188921645763139",
+            "unconstrained_ret_fread_unlocked_2725_64": "11313042263954685952",
+            "unconstrained_ret_fread_unlocked_2959_64": "3351241072717069934",
+            "unconstrained_ret_fread_unlocked_2844_64": "7926898294125492263",
+            "unconstrained_ret_fread_unlocked_3618_64": "10714063513514408506",
+            "unconstrained_ret_fread_unlocked_3290_64": "15879607073957216256",
+            "unconstrained_ret_fread_unlocked_2378_64": "11202862675340034933",
+            "unconstrained_ret_fread_unlocked_2497_64": "3192068884735721155",
+            "unconstrained_ret_fread_unlocked_2613_64": "13832505004375671504",
+            "unconstrained_ret_fread_unlocked_3400_64": "11036936752278274063",
+            "unconstrained_ret_fread_unlocked_3187_64": "3314649325744685057"
+        },
+        37.536295652389526,
+        "succeed",
+        2.159,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2613_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail175253": [
+        "sat",
+        114.08568549156189,
+        999999999,
+        {
+            "k!72347440": "True",
+            "unconstrained_ret_lseek_4874_64": "18446353110492133192"
+        },
+        4998.649406194687,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq117717": [
+        "sat",
+        111.30955982208252,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_3874_64": "11502466127187935234",
+            "unconstrained_ret_mbrtowc_2476_64": "12677632951047946232",
+            "unconstrained_ret_mbrtowc_2301_64": "2906500099427663861",
+            "unconstrained_ret_mbrtowc_3174_64": "12495750611223105575",
+            "unconstrained_ret_mbrtowc_2647_64": "1230045648225566723",
+            "unconstrained_ret_mbrtowc_2998_64": "14238959281331240964",
+            "unconstrained_ret_mbrtowc_2818_64": "9202634697799106560",
+            "unconstrained_ret_mbrtowc_3694_64": "5572078638964146176",
+            "mem_1_263_8": "255",
+            "unconstrained_ret_mbrtowc_3525_64": "16068843470457929728",
+            "unconstrained_ret_mbrtowc_3349_64": "6338808842883117056",
+            "mem_2_280_1008": "21514212034485053681525695354239839948125760585786861975442055808104243709609142925853025570219273624686110345663901386706595532787563420717937732120648244080404391672420262466917283763843921034528159082757682697388057005713046765849467895736012128060984484956967506493731337690707121941764350737907712",
+            "strlen_414_64": "58"
+        },
+        2721.5230264663696,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum81342": [
+        "sat",
+        158.30131840705872,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "16920998865530189122",
+            "unconstrained_ret_fread_unlocked_2814_64": "3576591669368193040",
+            "unconstrained_ret_fread_unlocked_2291_64": "2879102825209355499",
+            "unconstrained_ret_fread_unlocked_2353_64": "3641218919100946238",
+            "unconstrained_ret_fread_unlocked_2704_64": "12719943205581675124",
+            "unconstrained_ret_fread_unlocked_3374_64": "11517310163515342850",
+            "unconstrained_ret_fread_unlocked_3485_64": "17316814237191634980",
+            "unconstrained_ret_fread_unlocked_2246_64": "1368078035077965816",
+            "unconstrained_ret_fread_unlocked_2453_64": "14164356055617410016",
+            "unconstrained_ret_fread_unlocked_2213_64": "7623607835749878512",
+            "unconstrained_ret_fread_unlocked_2596_64": "17161596703429014220",
+            "unconstrained_ret_fread_unlocked_3155_64": "2868535822363198865",
+            "unconstrained_ret_fread_unlocked_3046_64": "1561929410948499745",
+            "unconstrained_ret_fread_unlocked_2938_64": "16493351935334514720",
+            "unconstrained_ret_fread_unlocked_3265_64": "17760516905658594240",
+            "unconstrained_ret_fread_unlocked_3700_64": "0"
+        },
+        2957.09593129158,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/printenv/printenv10527": [
+        "sat",
+        0.6641862392425537,
+        999999999,
+        {
+            "sym_argc_3_8": "20",
+            "k!4879300": "4112"
+        },
+        23.495928525924683,
+        "succeed",
+        0.057,
+        [
+            [
+                "k!4879300",
+                9940
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum64528": [
+        "sat",
+        26.068942070007324,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2289_64": "5532476437694480333",
+            "unconstrained_ret_fread_unlocked_3030_64": "10162901397223371247",
+            "unconstrained_ret_fread_unlocked_2439_64": "6950845513421324033",
+            "unconstrained_ret_fread_unlocked_2692_64": "17507697334890582721",
+            "unconstrained_ret_fread_unlocked_3142_64": "15179402374154366729",
+            "unconstrained_ret_fread_unlocked_2348_64": "11493191678130317313",
+            "unconstrained_ret_fread_unlocked_3359_64": "8378892435524006170",
+            "unconstrained_ret_fread_unlocked_2915_64": "8104070968357619953",
+            "unconstrained_ret_fread_unlocked_2576_64": "211299372964952585",
+            "unconstrained_ret_fread_unlocked_2242_64": "18346664283876609851",
+            "unconstrained_ret_fread_unlocked_2798_64": "16640211189338472132",
+            "unconstrained_ret_fread_unlocked_3247_64": "10619555530390758305"
+        },
+        1557.1239988803864,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum79314": [
+        "sat",
+        124.13156628608704,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3093_64": "108815343640378373",
+            "unconstrained_ret_fread_unlocked_2514_64": "8775843692242229744",
+            "unconstrained_ret_fread_unlocked_2757_64": "8577579064684638727",
+            "unconstrained_ret_fread_unlocked_3310_64": "8614796941194166272",
+            "unconstrained_ret_fread_unlocked_2866_64": "4888995491309682688",
+            "unconstrained_ret_fread_unlocked_3203_64": "17690634199195945451",
+            "unconstrained_ret_fread_unlocked_3533_64": "15346973268880176699",
+            "unconstrained_ret_fread_unlocked_3642_64": "13111273762509149912",
+            "unconstrained_ret_fread_unlocked_2321_64": "3079591485665853750",
+            "unconstrained_ret_fread_unlocked_2982_64": "9911384708373678328",
+            "unconstrained_ret_fread_unlocked_2634_64": "2767483961587272192",
+            "unconstrained_ret_fread_unlocked_3421_64": "7457027358647107585",
+            "unconstrained_ret_fread_unlocked_2395_64": "10350065164327029998"
+        },
+        1361.4943969249725,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq143552": [
+        "sat",
+        61.11029386520386,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_4911_64": "7438893619699314227",
+            "unconstrained_ret_mbrtowc_3694_64": "7727467526895888256",
+            "unconstrained_ret_mbrtowc_4219_64": "8508671607232790528",
+            "unconstrained_ret_mbrtowc_3174_64": "17703579766449242112",
+            "unconstrained_ret_mbrtowc_3525_64": "10804019636095942638",
+            "unconstrained_ret_mbrtowc_4046_64": "8203264526422837213",
+            "unconstrained_ret_mbrtowc_4558_64": "7862233179268698368",
+            "unconstrained_ret_mbrtowc_2818_64": "8175581436049358848",
+            "unconstrained_ret_mbrtowc_2476_64": "2355171498882236416",
+            "unconstrained_ret_mbrtowc_3874_64": "8743678671200395460",
+            "unconstrained_ret_mbrtowc_4737_64": "18405905927828684760",
+            "unconstrained_ret_mbrtowc_4389_64": "8961157410636935436",
+            "unconstrained_ret_mbrtowc_2301_64": "7453755295601016824",
+            "unconstrained_ret_mbrtowc_2647_64": "6606569547119984640",
+            "mem_1_263_8": "129",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947156654659234382225920940040243643562950920282556258285136894680947608481258478699869783573548828220368220810808278934928565632663745343685684186806624096308433518394001825576993363014526686733074498043916725421907497300734961151754460173512474624",
+            "unconstrained_ret_mbrtowc_2998_64": "17346528758491775009",
+            "unconstrained_ret_mbrtowc_3349_64": "1277474181801312236",
+            "strlen_414_64": "59"
+        },
+        6688.9983086586,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail151935": [
+        "sat",
+        138.74575662612915,
+        999999999,
+        {
+            "k!58634330": "True",
+            "unconstrained_ret_lseek_4252_64": "18343753732909551486"
+        },
+        265.37513160705566,
+        "succeed",
+        0.013,
+        [
+            [
+                "unconstrained_ret_lseek_4252_64",
+                17457141040377634630
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum79301": [
+        "sat",
+        12.922355890274048,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3093_64": "10466660271755461117",
+            "unconstrained_ret_fread_unlocked_2514_64": "15776743609382760705",
+            "unconstrained_ret_fread_unlocked_2757_64": "12768870823068931552",
+            "unconstrained_ret_fread_unlocked_3310_64": "10722559268444667391",
+            "unconstrained_ret_fread_unlocked_2866_64": "12086604874481431493",
+            "unconstrained_ret_fread_unlocked_3203_64": "7157016849538834359",
+            "unconstrained_ret_fread_unlocked_3533_64": "3112430501889593472",
+            "unconstrained_ret_fread_unlocked_3642_64": "4047333457911199423",
+            "unconstrained_ret_fread_unlocked_2321_64": "8058415371238039675",
+            "unconstrained_ret_fread_unlocked_2982_64": "67792299251805320",
+            "unconstrained_ret_fread_unlocked_2634_64": "8579081711696607639",
+            "unconstrained_ret_fread_unlocked_3421_64": "10037073035301885921",
+            "unconstrained_ret_fread_unlocked_2395_64": "7799882368296091648"
+        },
+        3616.2333755493164,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum87754": [
+        "sat",
+        2103.8907136917114,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "5095631086696789818",
+            "unconstrained_ret_fread_unlocked_2814_64": "880705171716310836",
+            "unconstrained_ret_fread_unlocked_3700_64": "8136440087846084564",
+            "unconstrained_ret_fread_unlocked_2291_64": "15676520613680646064",
+            "unconstrained_ret_fread_unlocked_2353_64": "9784659812440758528",
+            "unconstrained_ret_fread_unlocked_2704_64": "14211083429817742161",
+            "unconstrained_ret_fread_unlocked_3374_64": "17735598739696913921",
+            "unconstrained_ret_fread_unlocked_3485_64": "16697383067827833759",
+            "unconstrained_ret_fread_unlocked_2246_64": "9203378535804175792",
+            "unconstrained_ret_fread_unlocked_2453_64": "1030541756166164999",
+            "unconstrained_ret_fread_unlocked_2213_64": "650910352243925041",
+            "unconstrained_ret_fread_unlocked_2596_64": "7630396063503858192",
+            "unconstrained_ret_fread_unlocked_3155_64": "3781156941426849539",
+            "unconstrained_ret_fread_unlocked_3046_64": "5677389225272545155",
+            "unconstrained_ret_fread_unlocked_2938_64": "14132302521560989745",
+            "unconstrained_ret_fread_unlocked_3265_64": "17249855183974824868",
+            "unconstrained_ret_fread_unlocked_3805_64": "0"
+        },
+        1305.6799836158752,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/stat/stat111010": [
+        "sat",
+        48.89252281188965,
+        999999999,
+        {
+            "mem_7fffffffffefed8_2695_64": "255447260506"
+        },
+        3378.131950378418,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq125914": [
+        "sat",
+        3.218564033508301,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_4046_64": "17309428444584083156",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947156654659234382225920940040243638176571436038887120057179709116529770757825282937239642584793477399331840792247852072119356524199418989362013276449038586139288225556460023681164388669978146383825466868190010141659256112818579190068253710314635264",
+            "unconstrained_ret_mbrtowc_4219_64": "7644215566259323352",
+            "unconstrained_ret_mbrtowc_3174_64": "676770211859326880",
+            "unconstrained_ret_mbrtowc_3694_64": "2351229610691929548",
+            "unconstrained_ret_mbrtowc_2818_64": "589666488106756024",
+            "unconstrained_ret_mbrtowc_2476_64": "15564440312192434168",
+            "unconstrained_ret_mbrtowc_3874_64": "8836898518355410947",
+            "unconstrained_ret_mbrtowc_2301_64": "12025861841398769932",
+            "unconstrained_ret_mbrtowc_2647_64": "9511602413006487559",
+            "mem_1_263_8": "208",
+            "unconstrained_ret_mbrtowc_3525_64": "2397375157158817941",
+            "unconstrained_ret_mbrtowc_3349_64": "16729824402847825872",
+            "unconstrained_ret_mbrtowc_2998_64": "17043151475796144335",
+            "strlen_414_64": "39"
+        },
+        32.4485604763031,
+        "succeed",
+        3.015,
+        [
+            [
+                "unconstrained_ret_mbrtowc_3525_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq135049": [
+        "sat",
+        19.271101474761963,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_4046_64": "15542760691671760896",
+            "unconstrained_ret_mbrtowc_2998_64": "7688551959282054657",
+            "unconstrained_ret_mbrtowc_4219_64": "8535205714912715870",
+            "unconstrained_ret_mbrtowc_3174_64": "18304057415925035516",
+            "unconstrained_ret_mbrtowc_4558_64": "823912607125386368",
+            "unconstrained_ret_mbrtowc_3694_64": "11705975001907171286",
+            "unconstrained_ret_mbrtowc_2818_64": "9467652295335716865",
+            "unconstrained_ret_mbrtowc_2476_64": "17694563892550696950",
+            "unconstrained_ret_mbrtowc_3874_64": "16901655535882358741",
+            "unconstrained_ret_mbrtowc_4389_64": "10818319964728681263",
+            "unconstrained_ret_mbrtowc_2301_64": "11234003840574968872",
+            "unconstrained_ret_mbrtowc_2647_64": "17778435966084812854",
+            "mem_1_263_8": "132",
+            "unconstrained_ret_mbrtowc_3525_64": "3918944953653563391",
+            "unconstrained_ret_mbrtowc_3349_64": "15606656823751041024",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947074718097883154576601046821439260747139605492291640405661945464956651991680175636974928214664518561243571688066906827269966551069019524927576681887453055068827101097664757366098968708549402362338628521798447647342346284823076640998114351787278336",
+            "strlen_414_64": "59"
+        },
+        49.77138900756836,
+        "succeed",
+        18.954,
+        [
+            [
+                "unconstrained_ret_mbrtowc_3525_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/date/date65943": [
+        "sat",
+        163.2139573097229,
+        999999999,
+        {
+            "tv_sec_2376_64": "15196211580001"
+        },
+        2666.1494269371033,
+        "succeed",
+        0.013,
+        [
+            [
+                "tv_sec_2376_64",
+                17596481011778
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq113575": [
+        "sat",
+        62.524353981018066,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_3349_64": "2766595555856482305",
+            "unconstrained_ret_mbrtowc_2998_64": "15113042410478764053",
+            "unconstrained_ret_mbrtowc_2301_64": "332263816451899416",
+            "unconstrained_ret_mbrtowc_3174_64": "17262851525571510230",
+            "unconstrained_ret_mbrtowc_2647_64": "11529215046068469760",
+            "unconstrained_ret_mbrtowc_2818_64": "15564440312192434180",
+            "unconstrained_ret_mbrtowc_3694_64": "15945416494539292679",
+            "mem_1_263_8": "160",
+            "unconstrained_ret_mbrtowc_3525_64": "10261130693568364546",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947156654659234382225920940040243643562950920282556258285136894680947608481258478699869783573548828220368220810808278934928565632663745343685684186806624096308433518394001825576993363014526686733074498043916725421907497300734961151754460173512474624",
+            "unconstrained_ret_mbrtowc_2476_64": "3458764513820540936",
+            "strlen_414_64": "59"
+        },
+        785.5351622104645,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum87750": [
+        "sat",
+        445.89663314819336,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "15135653525746054745",
+            "unconstrained_ret_fread_unlocked_2814_64": "8130695019785491748",
+            "unconstrained_ret_fread_unlocked_3700_64": "7340952052060012509",
+            "unconstrained_ret_fread_unlocked_2291_64": "3986771370566020099",
+            "unconstrained_ret_fread_unlocked_2353_64": "6557190735794949889",
+            "unconstrained_ret_fread_unlocked_2704_64": "1896553391658693493",
+            "unconstrained_ret_fread_unlocked_3374_64": "17676770236812967539",
+            "unconstrained_ret_fread_unlocked_3485_64": "14886886783261485913",
+            "unconstrained_ret_fread_unlocked_2246_64": "2869808938834143307",
+            "unconstrained_ret_fread_unlocked_2453_64": "8604171032427229153",
+            "unconstrained_ret_fread_unlocked_2213_64": "6179344379259787891",
+            "unconstrained_ret_fread_unlocked_2596_64": "12612646522122291702",
+            "unconstrained_ret_fread_unlocked_3155_64": "3832247143234535432",
+            "unconstrained_ret_fread_unlocked_3046_64": "2846910787161686018",
+            "unconstrained_ret_fread_unlocked_2938_64": "18045040936475426811",
+            "unconstrained_ret_fread_unlocked_3265_64": "16972309734475636730",
+            "unconstrained_ret_fread_unlocked_3805_64": "0"
+        },
+        1304.1747653484344,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum76090": [
+        "sat",
+        19.386870622634888,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3471_64": "3025630307592774253",
+            "unconstrained_ret_fread_unlocked_2289_64": "4931475865477329902",
+            "unconstrained_ret_fread_unlocked_3030_64": "3329442736442203959",
+            "unconstrained_ret_fread_unlocked_2439_64": "9361546602797092225",
+            "unconstrained_ret_fread_unlocked_2692_64": "7660846750829131877",
+            "unconstrained_ret_fread_unlocked_3142_64": "9808926429106488192",
+            "unconstrained_ret_fread_unlocked_2348_64": "11445769297998635000",
+            "unconstrained_ret_fread_unlocked_3359_64": "11199034879754895380",
+            "unconstrained_ret_fread_unlocked_2915_64": "12107597233458190976",
+            "unconstrained_ret_fread_unlocked_2576_64": "16070802782167950848",
+            "unconstrained_ret_fread_unlocked_2242_64": "17918837625475501616",
+            "unconstrained_ret_fread_unlocked_2798_64": "489800198824142819",
+            "unconstrained_ret_fread_unlocked_3247_64": "3330753732332972670",
+            "unconstrained_ret_fread_unlocked_3577_64": "0"
+        },
+        3697.4727125167847,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/setuidgid/setuidgid182477": [
+        "sat",
+        1.2445075511932373,
+        999999999,
+        {
+            "mem_5_908_8": "255",
+            "mem_6_909_8": "255",
+            "mem_7_910_8": "255",
+            "mem_8_911_8": "255",
+            "mem_9_912_8": "255",
+            "mem_a_913_8": "255",
+            "mem_b_914_8": "255",
+            "mem_c_915_8": "255",
+            "mem_d_1041_8": "255",
+            "mem_e_1072_8": "255",
+            "mem_f_1088_8": "255",
+            "mem_10_1103_8": "255",
+            "mem_11_1104_8": "255",
+            "mem_12_1105_8": "255",
+            "mem_13_1106_8": "255",
+            "mem_14_1107_8": "255",
+            "mem_15_1108_8": "255",
+            "mem_16_1109_8": "255",
+            "mem_17_1110_8": "255",
+            "mem_18_1111_8": "255",
+            "mem_19_1112_8": "255",
+            "mem_1a_1212_816": "1673540777520997056025040540976970391901104032073275875484430031809446157942411591855377206568938338233664199357487483359994213593704743410516984904004315559986549235399975469575284078001486836024885485778057215351036866084544373358690566144",
+            "unconstrained_ret_mbrtowc_1830_64": "1489185653609463813",
+            "unconstrained_ret_mbrtowc_2096_64": "11942238270633437204",
+            "unconstrained_ret_mbrtowc_1723_64": "16824379327648759789",
+            "unconstrained_ret_mbrtowc_1924_64": "10932191171467804713",
+            "unconstrained_ret_mbrtowc_2010_64": "13391139064754995156",
+            "mem_4_907_8": "130",
+            "unconstrained_ret_mbrtowc_2180_64": "17643850325814122504",
+            "unconstrained_ret_mbrtowc_2256_64": "1563992480909623296",
+            "strlen_1690_64": "26"
+        },
+        2564.9020829200745,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail241406": [
+        "sat",
+        16.538975477218628,
+        999999999,
+        {
+            "k!117124990": "True",
+            "unconstrained_ret_lseek_6550_64": "12667007270677118975"
+        },
+        113.8276801109314,
+        "succeed",
+        0.014,
+        [
+            [
+                "unconstrained_ret_lseek_6550_64",
+                13857841817990397952
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum68184": [
+        "sat",
+        142.72608304023743,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3093_64": "1852164566534320560",
+            "unconstrained_ret_fread_unlocked_2514_64": "4402527073925796381",
+            "unconstrained_ret_fread_unlocked_2757_64": "129478188954333563",
+            "unconstrained_ret_fread_unlocked_3310_64": "8010991861033949936",
+            "unconstrained_ret_fread_unlocked_2866_64": "8477945648436177996",
+            "unconstrained_ret_fread_unlocked_3203_64": "3183037454149062692",
+            "unconstrained_ret_fread_unlocked_2321_64": "7409729582715726075",
+            "unconstrained_ret_fread_unlocked_2982_64": "11952532537854772475",
+            "unconstrained_ret_fread_unlocked_2634_64": "15120903167106363009",
+            "unconstrained_ret_fread_unlocked_3421_64": "11688283815427872524",
+            "unconstrained_ret_fread_unlocked_2395_64": "1559382398699831283"
+        },
+        1327.6270954608917,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum92024": [
+        "sat",
+        5.433221340179443,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "15291044079286718544",
+            "unconstrained_ret_fread_unlocked_2814_64": "14006246007272506935",
+            "unconstrained_ret_fread_unlocked_3700_64": "1975734611839772429",
+            "unconstrained_ret_fread_unlocked_2291_64": "7126965478533934096",
+            "unconstrained_ret_fread_unlocked_2353_64": "15127374756075868117",
+            "unconstrained_ret_fread_unlocked_2704_64": "17231957661839549774",
+            "unconstrained_ret_fread_unlocked_3374_64": "11645508861467033600",
+            "unconstrained_ret_fread_unlocked_3485_64": "6609860807840802816",
+            "unconstrained_ret_fread_unlocked_2246_64": "1890301576469676032",
+            "unconstrained_ret_fread_unlocked_2453_64": "10100243204409162762",
+            "unconstrained_ret_fread_unlocked_2213_64": "12185421019396461612",
+            "unconstrained_ret_fread_unlocked_2596_64": "8070450532247928832",
+            "unconstrained_ret_fread_unlocked_3155_64": "5305393050243822960",
+            "unconstrained_ret_fread_unlocked_3046_64": "6697459103443874048",
+            "unconstrained_ret_fread_unlocked_2938_64": "16143389218526265426",
+            "unconstrained_ret_fread_unlocked_3265_64": "16613346694492586624",
+            "unconstrained_ret_fread_unlocked_3805_64": "0"
+        },
+        34.88485527038574,
+        "succeed",
+        2.914,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2291_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail210468": [
+        "sat",
+        127.1747624874115,
+        999999999,
+        {
+            "unconstrained_ret_lseek_5670_64": "10147593946054779596",
+            "unconstrained_ret_lseek_5705_64": "12103656190909162188"
+        },
+        3559.8710947036743,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who81208": [
+        "sat",
+        5.875300168991089,
+        999999999,
+        {
+            "mem_8000000000000008_2220_288": "58281911826075136436872880884317438894344840554987228483046715276600900930389846000128",
+            "mem_2_1858_2712": "970121506913139547800818300453477180261517251295276221479714466408691354784905848732316865509720943191034866253288598054841510980304852459082755904229127363500149930699810677846209152682252598195137676771444486241026260865392848401796954887633549538703630327599441454877348732565568789809231162360625450048521299091744299006320694326411222934452887920412093107979957931615137735091834196286799830357943896775864435400108400091393655092814219316200008756357336761841065033497475516562515623388612776926314317422862589575878558847848263930221704832045928630204814195464976881386470618620464025716542690672838461574981934128146386303108561325197284446360659359320066772443604827186737843087073482015752904807026024197659919250373894365244450430810399817926267010105970842065335620026730852728656223082708825692155412480",
+            "mem_800000000000002d_2221_2712": "3736616623647590773244030651543549285845937623690460802643588537934858761258152137857429307165320030658412696430824824274097760260077483931754623946867773736656673024511223967795755296734686546171379141822259192606083135098198286489398615570644805935078755834833531972127833031301323454458514340629056870271700695917343198224614050530841843150824623267014487439797134945806461114927457736764110416329099847214381044759282923214850249820026048552924009857642157645453029305309714003397871964525121427614066023696043674343116705247784140977954179290179883416180239200908118186419014543587240526565247186031452207831531596345507127104169396382128381567035599905070940540136451049288802401611806728937096741766536245190930179604794931474666018248948731569461271230041593878952280064000",
+            "strlen_3394_64": "6",
+            "strlen_3458_64": "1",
+            "strlen_3459_64": "1",
+            "mem_1_1552_8": "47",
+            "strlen_3610_64": "1",
+            "strncmp_ret_3460_64": "0",
+            "strncmp_ret_3395_64": "0"
+        },
+        132.5399990081787,
+        "succeed",
+        9.069,
+        [
+            [
+                "mem_8000000000000008_2220_288",
+                296879889882932020880356139531005316791650724001243216007920238002433
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail241318": [
+        "sat",
+        4.4595136642456055,
+        999999999,
+        {
+            "k!115635490": "True",
+            "unconstrained_ret_lseek_6550_64": "11278982631980226414"
+        },
+        95.16949772834778,
+        "succeed",
+        0.012,
+        [
+            [
+                "unconstrained_ret_lseek_6550_64",
+                13857841817990397952
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who224789": [
+        "sat",
+        10.778292894363403,
+        999999999,
+        {
+            "strlen_9076_64": "59",
+            "mem_155_2740_336": "50853579351205027241660676780484696744461189268267189146899166599031407231385490214946681365786001408",
+            "strlen_8522_64": "1",
+            "strlen_8730_64": "1",
+            "mem_2_1858_2712": "147444482658298847817574311871540366484611069778804898878464465179791609424341363420188381150103452478688614355709101641202923980972759468745298635248202868047491373859757696942134933903973466373562071354363417452235379155834606677553783080172117890110682144309649421823741941613383637789257328074375629711856979033771124650084455076716793901785113425489531544908316493532279092059029089290924904186042151363802489616895406325798867885309966391678096937078881282717321693376804305222928035253151274700506252930266019815899909957934591509083037650042012993222680732719512916523306330833563802424395323379459559843049137296446766035408546646218660406278916077863846385828939263138531667657746046882003330320845982640945148054272690769753005944387789948883755617952213277675114607892653478293267926961476505465057",
+            "mem_7fffffffffefd80_9077_480": "1173728176134812073455444786886350398928546940923387650871046559861664484541922895038167091639399250946682013074988169770193488437160213590589504",
+            "strncmp_ret_8523_64": "0"
+        },
+        219.54452633857727,
+        "succeed",
+        13.367,
+        [
+            [
+                "mem_7fffffffffefd80_9077_480",
+                1610614536
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/date/date29888": [
+        "sat",
+        3.586344003677368,
+        999999999,
+        {
+            "unconstrained_ret_mktime_1990_64": "2616000"
+        },
+        384.97359704971313,
+        "succeed",
+        0.016,
+        [
+            [
+                "unconstrained_ret_mktime_1990_64",
+                8983910
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail148127": [
+        "sat",
+        4.3198606967926025,
+        999999999,
+        {
+            "unconstrained_ret_lseek_4293_64": "18446744073709162812",
+            "unconstrained_ret_lseek_4252_64": "9408012698060345660"
+        },
+        91.15380573272705,
+        "succeed",
+        7.605,
+        [
+            [
+                "unconstrained_ret_lseek_4252_64",
+                15536814695057981440
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum75111": [
+        "sat",
+        23.2730131149292,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "16259053353089957888",
+            "unconstrained_ret_fread_unlocked_3226_64": "6414544629872934801",
+            "unconstrained_ret_fread_unlocked_2275_64": "12847296427818237480",
+            "unconstrained_ret_fread_unlocked_2538_64": "11634268914296750075",
+            "unconstrained_ret_fread_unlocked_3447_64": "4279162194307842053",
+            "unconstrained_ret_fread_unlocked_2339_64": "17931343389777967616",
+            "unconstrained_ret_fread_unlocked_2888_64": "5333696693049226863",
+            "unconstrained_ret_fread_unlocked_2778_64": "16338678488307465600",
+            "unconstrained_ret_fread_unlocked_3006_64": "253365488082943371",
+            "unconstrained_ret_fread_unlocked_3116_64": "16999377164492337073",
+            "unconstrained_ret_fread_unlocked_2417_64": "18048093405855090688",
+            "unconstrained_ret_fread_unlocked_3332_64": "14764194945340530505",
+            "unconstrained_ret_fread_unlocked_3557_64": "6470877495385128958"
+        },
+        4499.406878709793,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sort/sort21837": [
+        "sat",
+        3.7271950244903564,
+        999999999,
+        {
+            "unconstrained_ret_sysconf_1654_64": "6773427970544517504",
+            "unconstrained_ret_sysconf_1517_64": "593630721097068367",
+            "unconstrained_ret_sysconf_1620_64": "1073741828",
+            "unconstrained_ret_sysconf_1487_64": "309547195"
+        },
+        11.43822693824768,
+        "succeed",
+        0.602,
+        [
+            [
+                "unconstrained_ret_sysconf_1620_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum74487": [
+        "sat",
+        30.627565145492554,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3093_64": "7633485432822933889",
+            "unconstrained_ret_fread_unlocked_2514_64": "1072777758461300224",
+            "unconstrained_ret_fread_unlocked_2757_64": "2032386922454271695",
+            "unconstrained_ret_fread_unlocked_3310_64": "9078683515728863239",
+            "unconstrained_ret_fread_unlocked_2866_64": "16075729857673034752",
+            "unconstrained_ret_fread_unlocked_3203_64": "4155962096420620950",
+            "unconstrained_ret_fread_unlocked_3533_64": "17068625757661459009",
+            "unconstrained_ret_fread_unlocked_2321_64": "12927540095340611327",
+            "unconstrained_ret_fread_unlocked_2982_64": "7299938364667744769",
+            "unconstrained_ret_fread_unlocked_2634_64": "10247797834833477120",
+            "unconstrained_ret_fread_unlocked_3421_64": "10104944454823141408",
+            "unconstrained_ret_fread_unlocked_2395_64": "12982592351369851328"
+        },
+        53.12031674385071,
+        "succeed",
+        22.109,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2514_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who72982": [
+        "sat",
+        12.463514566421509,
+        999999999,
+        {
+            "mem_fffffffffffe002d_3206_2712": "1845482868831936314878325699674581044768955919342823557155516465361963077574968281021922186362459495858176"
+        },
+        3236.199974298477,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/factor/factor61564": [
+        "sat",
+        0.5136411190032959,
+        999999999,
+        {
+            "unconstrained_ret_strtoumax_716_64": "8772279539277882368"
+        },
+        398.93299293518066,
+        "succeed",
+        0.014,
+        [
+            [
+                "unconstrained_ret_strtoumax_716_64",
+                2307118867456
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail91293": [
+        "sat",
+        24.115740537643433,
+        999999999,
+        {
+            "k!8561150": "True",
+            "unconstrained_ret_lseek_2666_64": "11140841150858919931"
+        },
+        211.0963315963745,
+        "succeed",
+        0.015,
+        [
+            [
+                "unconstrained_ret_lseek_2666_64",
+                9585911806858100736
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq132236": [
+        "sat",
+        2.0172712802886963,
+        999999999,
+        {
+            "mem_1_263_8": "255",
+            "mem_0_166_8": "254",
+            "unconstrained_ret_mbrtowc_4054_64": "6052487936573833216",
+            "unconstrained_ret_mbrtowc_3706_64": "11713112763860516864",
+            "unconstrained_ret_mbrtowc_4229_64": "7345656579230414860",
+            "unconstrained_ret_mbrtowc_4399_64": "860213163185246214",
+            "unconstrained_ret_mbrtowc_3884_64": "342132834191802368",
+            "unconstrained_ret_mbrtowc_3535_64": "15040239347557203981",
+            "unconstrained_ret_mbrtowc_3358_64": "13986389596529637381",
+            "mem_2_280_1008": "21514212034485053659827200985047879493323080712370069510888528080543825547228294854978070118388107355181747328434634186735260307454107354916288817858537849251274318806111705429126780926254860633994341308341723616937080322460196139310873502365325881176352302636624719433807499404671205167507832202854400",
+            "strlen_281_64": "59"
+        },
+        21.380993843078613,
+        "succeed",
+        0.838,
+        [
+            [
+                "unconstrained_ret_mbrtowc_3535_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/cat/cat95720": [
+        "sat",
+        0.5319967269897461,
+        999999999,
+        {
+            "mem_7fffffffffefeb0_2556_64": "96",
+            "unconstrained_ret_getpagesize_7_64": "1610612736"
+        },
+        20.311151027679443,
+        "succeed",
+        0.067,
+        [
+            [
+                "unconstrained_ret_getpagesize_7_64",
+                3215046530184511994
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum80544": [
+        "sat",
+        351.8616724014282,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "14065827924885738718",
+            "unconstrained_ret_fread_unlocked_2339_64": "11679118022839035840",
+            "unconstrained_ret_fread_unlocked_2778_64": "14772069217054873592",
+            "unconstrained_ret_fread_unlocked_3006_64": "14136227337166913551",
+            "unconstrained_ret_fread_unlocked_3332_64": "12981418276882694393",
+            "unconstrained_ret_fread_unlocked_3226_64": "46215018162460271",
+            "unconstrained_ret_fread_unlocked_2275_64": "124024956115282729",
+            "unconstrained_ret_fread_unlocked_2538_64": "4051444604930661654",
+            "unconstrained_ret_fread_unlocked_3447_64": "8999952340819640343",
+            "unconstrained_ret_fread_unlocked_3662_64": "18066299146513552597",
+            "unconstrained_ret_fread_unlocked_2888_64": "10305634158711289862",
+            "unconstrained_ret_fread_unlocked_3116_64": "1173242666075826338",
+            "unconstrained_ret_fread_unlocked_3557_64": "1859480707143827460",
+            "unconstrained_ret_fread_unlocked_2417_64": "16866254138665063985"
+        },
+        4032.7674219608307,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who145708": [
+        "sat",
+        4.82280969619751,
+        999999999,
+        {
+            "strncmp_ret_5538_64": "1",
+            "strlen_5537_64": "1",
+            "mem_8000000000000008_2220_288": "91305437934609266333214709620705388612193121461312017384826598359312760050521573703744",
+            "strlen_5580_64": "1",
+            "mem_2_1858_2712": "18577649435018217681433061764046548221678307813578409308670695668520929111330194711737459783804292806689698070050620609322554559507438709815629301859633839559602319286233599634853377903036632042099199505837244061734345167630973730731878306306568864392359979487570910171446909599662963107218588565365433310204927040878761944750007406641085722844926813107173514580413558977270887815208236499485996682051823740895825031773293528271397111205836901267803323940311622699540018588811400072809558425422073635211558255960592438029716093661702835840870134450550587019500561522383950070801610634244050250960672526060581534492010956544882621735546404193733260933249054992901886660292027737321369972112317959110285353834451821952109815931841431102984966953953436468702515132037613440580461542423638492627841016458209361133568",
+            "strlen_5579_64": "1",
+            "mem_800000000000002d_2221_2712": "108749856671131912143703207279588151031922055394147669537465385918511971732542336611522536351860687756132980775833359836496571145269617838166928204820076497119287532501931281446215413584069113779750448400915378319027657201853137585640920523004758344441022045654442361683844431400848263613734124291940022106848412169612181966878441736539732023409040144356620726695234567604918490073812653841222304066370303707370774571992378421624963333792324918332084358303193726249175522777260359676438260890598001303002069954143722845393801876411804314052874390539056181871300945836134383321362915670577753780285494145019627601539660938842461184018214194934589442875238314220265215070274685779796792422327261367575828116799740239362986106353216638664970954241189487792902541450552541184",
+            "strlen_5702_64": "1",
+            "mem_1_1552_8": "47",
+            "strlen_6059_64": "59",
+            "mem_7fffffffffefd80_6060_480": "195305776181184075679855391095986396404097265827429481821059721689831343369715251050218973331565041358172907000937402224877477386151782489538576",
+            "strncmp_ret_5581_64": "0"
+        },
+        579.2517743110657,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum85310": [
+        "sat",
+        3.1132218837738037,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "6761307554242168655",
+            "unconstrained_ret_fread_unlocked_2814_64": "13615632878312757793",
+            "unconstrained_ret_fread_unlocked_3700_64": "7392639050126422600",
+            "unconstrained_ret_fread_unlocked_3805_64": "16657878037970868077",
+            "unconstrained_ret_fread_unlocked_2291_64": "16699347418289799168",
+            "unconstrained_ret_fread_unlocked_2353_64": "18424569652020806623",
+            "unconstrained_ret_fread_unlocked_2704_64": "1615104271167653441",
+            "unconstrained_ret_fread_unlocked_3374_64": "7289040094749319225",
+            "unconstrained_ret_fread_unlocked_3485_64": "16714114668532074628",
+            "unconstrained_ret_fread_unlocked_2246_64": "2884453019487632463",
+            "unconstrained_ret_fread_unlocked_2453_64": "9203101578025959943",
+            "unconstrained_ret_fread_unlocked_2213_64": "16271505453689602048",
+            "unconstrained_ret_fread_unlocked_2596_64": "8565838528421264059",
+            "unconstrained_ret_fread_unlocked_3155_64": "8570430354136236848",
+            "unconstrained_ret_fread_unlocked_3046_64": "14668364997831166252",
+            "unconstrained_ret_fread_unlocked_2938_64": "10108551283259472055",
+            "unconstrained_ret_fread_unlocked_3265_64": "9025561896832312329"
+        },
+        38.10697031021118,
+        "succeed",
+        4.894,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2291_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum87745": [
+        "sat",
+        82.36577439308167,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "7518732387493085187",
+            "unconstrained_ret_fread_unlocked_2814_64": "9009325239432562311",
+            "unconstrained_ret_fread_unlocked_3700_64": "16439479205480444579",
+            "unconstrained_ret_fread_unlocked_2291_64": "6539929400241570688",
+            "unconstrained_ret_fread_unlocked_2353_64": "9900242619605221376",
+            "unconstrained_ret_fread_unlocked_2704_64": "4938302617826591213",
+            "unconstrained_ret_fread_unlocked_3374_64": "5746734437745298433",
+            "unconstrained_ret_fread_unlocked_3485_64": "3153073259038113792",
+            "unconstrained_ret_fread_unlocked_2246_64": "16868968372648054049",
+            "unconstrained_ret_fread_unlocked_2453_64": "7173251443255222645",
+            "unconstrained_ret_fread_unlocked_2213_64": "2587209515383567616",
+            "unconstrained_ret_fread_unlocked_2596_64": "10385081577097838053",
+            "unconstrained_ret_fread_unlocked_3155_64": "4577853905159852032",
+            "unconstrained_ret_fread_unlocked_3046_64": "16006554647493865481",
+            "unconstrained_ret_fread_unlocked_2938_64": "8401780110633771005",
+            "unconstrained_ret_fread_unlocked_3265_64": "18327433851141354496",
+            "unconstrained_ret_fread_unlocked_3805_64": "0"
+        },
+        1312.641753435135,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/setuidgid/setuidgid217526": [
+        "sat",
+        11.790610313415527,
+        999999999,
+        {
+            "mem_8_911_8": "255",
+            "mem_9_912_8": "255",
+            "mem_a_913_8": "255",
+            "mem_b_914_8": "255",
+            "mem_c_915_8": "255",
+            "mem_d_1041_8": "255",
+            "mem_e_1072_8": "255",
+            "mem_f_1088_8": "255",
+            "mem_10_1103_8": "255",
+            "mem_11_1104_8": "255",
+            "mem_12_1105_8": "255",
+            "mem_13_1106_8": "255",
+            "mem_14_1107_8": "255",
+            "mem_15_1108_8": "255",
+            "mem_16_1109_8": "255",
+            "mem_17_1110_8": "255",
+            "mem_18_1111_8": "255",
+            "mem_19_1112_8": "255",
+            "unconstrained_ret_mbrtowc_2320_64": "246778787784556544",
+            "unconstrained_ret_mbrtowc_2154_64": "11753750004752187435",
+            "mem_7_910_8": "130",
+            "unconstrained_ret_mbrtowc_2234_64": "3048258986999545842",
+            "unconstrained_ret_mbrtowc_2575_64": "10996795921592665217",
+            "unconstrained_ret_mbrtowc_2407_64": "13149727852083544042",
+            "unconstrained_ret_mbrtowc_2492_64": "10578330920204329865",
+            "unconstrained_ret_mbrtowc_2074_64": "37998563629584332",
+            "mem_1a_1212_816": "109677174932885114906628308569526801818021366314991775924637904803580974285205664802431462590035394460751328033939045823156266981266558334833150134657548281366447381508645705505600147999291402040061066432912377400157079572149085542452403541901312",
+            "unconstrained_ret_mbrtowc_2658_64": "5528591184082241616",
+            "strlen_2056_64": "59"
+        },
+        58.72262930870056,
+        "succeed",
+        1.641,
+        [
+            [
+                "unconstrained_ret_mbrtowc_2575_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum80520": [
+        "sat",
+        27.94232678413391,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "11503413534635024892",
+            "unconstrained_ret_fread_unlocked_2339_64": "12652115753526756291",
+            "unconstrained_ret_fread_unlocked_2778_64": "16107325723303186914",
+            "unconstrained_ret_fread_unlocked_3006_64": "3990114089993802181",
+            "unconstrained_ret_fread_unlocked_3332_64": "8471418680284594624",
+            "unconstrained_ret_fread_unlocked_3226_64": "6007019797566642801",
+            "unconstrained_ret_fread_unlocked_2275_64": "6736936695971725696",
+            "unconstrained_ret_fread_unlocked_2538_64": "4588823838844539093",
+            "unconstrained_ret_fread_unlocked_3447_64": "12306689412660307977",
+            "unconstrained_ret_fread_unlocked_3662_64": "13728545922394592639",
+            "unconstrained_ret_fread_unlocked_2888_64": "3261404987732771593",
+            "unconstrained_ret_fread_unlocked_3116_64": "13111533218305153039",
+            "unconstrained_ret_fread_unlocked_3557_64": "5110828758009169958",
+            "unconstrained_ret_fread_unlocked_2417_64": "11551038102738593644"
+        },
+        30.84346342086792,
+        "succeed",
+        3.39,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2417_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail207458": [
+        "sat",
+        46.444416761398315,
+        999999999,
+        {
+            "k!95146900": "True",
+            "unconstrained_ret_lseek_5670_64": "12086721380"
+        },
+        2104.589575767517,
+        "succeed",
+        0.019,
+        [
+            [
+                "unconstrained_ret_lseek_5670_64",
+                68719476880
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum89013": [
+        "sat",
+        2.8624517917633057,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "9761675546509123260",
+            "unconstrained_ret_fread_unlocked_2339_64": "18119476636725280768",
+            "unconstrained_ret_fread_unlocked_2778_64": "9607830493770135856",
+            "unconstrained_ret_fread_unlocked_3006_64": "14842185942202449931",
+            "unconstrained_ret_fread_unlocked_3332_64": "8464564753623153730",
+            "unconstrained_ret_fread_unlocked_3226_64": "3113503397249023254",
+            "unconstrained_ret_fread_unlocked_2275_64": "8736952973527550830",
+            "unconstrained_ret_fread_unlocked_2538_64": "8181877549404258310",
+            "unconstrained_ret_fread_unlocked_3447_64": "786159593477639708",
+            "unconstrained_ret_fread_unlocked_3662_64": "6063152967647737391",
+            "unconstrained_ret_fread_unlocked_2888_64": "6390999984382038013",
+            "unconstrained_ret_fread_unlocked_3116_64": "5159030465876720767",
+            "unconstrained_ret_fread_unlocked_3557_64": "5690280536996576285",
+            "unconstrained_ret_fread_unlocked_2417_64": "5186312848562268497"
+        },
+        28.240204095840454,
+        "succeed",
+        0.479,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2417_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq135078": [
+        "sat",
+        41.272711753845215,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_4046_64": "11691388242006342216",
+            "unconstrained_ret_mbrtowc_2998_64": "7535149751657734124",
+            "unconstrained_ret_mbrtowc_4219_64": "12639929467341881147",
+            "unconstrained_ret_mbrtowc_3174_64": "13998183708192479235",
+            "unconstrained_ret_mbrtowc_4558_64": "8781805666779417147",
+            "unconstrained_ret_mbrtowc_3694_64": "6729339952549570547",
+            "unconstrained_ret_mbrtowc_2818_64": "2417854375729144855",
+            "unconstrained_ret_mbrtowc_2476_64": "12196088273915346949",
+            "unconstrained_ret_mbrtowc_3874_64": "15058784928730634252",
+            "unconstrained_ret_mbrtowc_4389_64": "17954450725042441818",
+            "unconstrained_ret_mbrtowc_2301_64": "8731361612066260437",
+            "unconstrained_ret_mbrtowc_2647_64": "13552266275809369085",
+            "mem_1_263_8": "196",
+            "unconstrained_ret_mbrtowc_3525_64": "1779785134890936414",
+            "unconstrained_ret_mbrtowc_3349_64": "14507564474964854711",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947156654659234381837785471353499694459301404517258414617487307460015495715860216351174879336736366273731342691736847075147307172651595427729611798224389435853097198449231460253071875407273178172479489000594055358211012806070455918543235991709155328",
+            "strlen_414_64": "32"
+        },
+        3227.9283533096313,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail209624": [
+        "sat",
+        72.65671849250793,
+        999999999,
+        {
+            "unconstrained_ret_lseek_5670_64": "17870283321406128128",
+            "unconstrained_ret_lseek_5705_64": "18446678103011893248"
+        },
+        4015.313651561737,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail147358": [
+        "sat",
+        2.6928327083587646,
+        999999999,
+        {
+            "k!46528000": "True",
+            "unconstrained_ret_lseek_4252_64": "18446744073701549535"
+        },
+        1688.7978308200836,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum77471": [
+        "sat",
+        34.44501757621765,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "12019572017670614997",
+            "unconstrained_ret_fread_unlocked_2814_64": "7426381359708372992",
+            "unconstrained_ret_fread_unlocked_2291_64": "14987116786858590208",
+            "unconstrained_ret_fread_unlocked_2353_64": "3096940137553506983",
+            "unconstrained_ret_fread_unlocked_2704_64": "9414204314403607554",
+            "unconstrained_ret_fread_unlocked_3374_64": "16925256519681832865",
+            "unconstrained_ret_fread_unlocked_3485_64": "7986889398669015690",
+            "unconstrained_ret_fread_unlocked_2246_64": "8215185670967058297",
+            "unconstrained_ret_fread_unlocked_2453_64": "7982979331376807936",
+            "unconstrained_ret_fread_unlocked_2213_64": "731746534766428151",
+            "unconstrained_ret_fread_unlocked_2596_64": "8308666265224872452",
+            "unconstrained_ret_fread_unlocked_3155_64": "9121614568508886509",
+            "unconstrained_ret_fread_unlocked_3046_64": "12630614961618417409",
+            "unconstrained_ret_fread_unlocked_2938_64": "8701318169350154241",
+            "unconstrained_ret_fread_unlocked_3265_64": "1578722479608695055"
+        },
+        3607.30868935585,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail185132": [
+        "sat",
+        9.62976884841919,
+        999999999,
+        {
+            "unconstrained_ret_lseek_5110_64": "7205759403886186770",
+            "unconstrained_ret_lseek_5164_64": "2017612632968589038"
+        },
+        5.447903156280518,
+        "succeed",
+        0.08,
+        [
+            [
+                "unconstrained_ret_lseek_5110_64",
+                2305827396327931007
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum77463": [
+        "sat",
+        66.62758874893188,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "5062718636706846208",
+            "unconstrained_ret_fread_unlocked_2814_64": "7377662493376236665",
+            "unconstrained_ret_fread_unlocked_2291_64": "13531262601603879200",
+            "unconstrained_ret_fread_unlocked_2353_64": "6484020396004477184",
+            "unconstrained_ret_fread_unlocked_2704_64": "17053872848708909592",
+            "unconstrained_ret_fread_unlocked_3374_64": "5087793850370863420",
+            "unconstrained_ret_fread_unlocked_3485_64": "1710066418823376635",
+            "unconstrained_ret_fread_unlocked_2246_64": "14734393342229585920",
+            "unconstrained_ret_fread_unlocked_2453_64": "2824338497764464640",
+            "unconstrained_ret_fread_unlocked_2213_64": "18228763582611367862",
+            "unconstrained_ret_fread_unlocked_2596_64": "8840074381080784648",
+            "unconstrained_ret_fread_unlocked_3155_64": "6932575605018308603",
+            "unconstrained_ret_fread_unlocked_3046_64": "6526987732039510783",
+            "unconstrained_ret_fread_unlocked_2938_64": "14928247657371492223",
+            "unconstrained_ret_fread_unlocked_3265_64": "18251174545966309348"
+        },
+        3063.993427991867,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/factor/factor54690": [
+        "sat",
+        0.9076786041259766,
+        999999999,
+        {
+            "unconstrained_ret_strtoumax_792_64": "2635929680541887210"
+        },
+        661.5025579929352,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum84903": [
+        "sat",
+        9.110488176345825,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3093_64": "16245639814294929415",
+            "unconstrained_ret_fread_unlocked_2514_64": "17660368718589100352",
+            "unconstrained_ret_fread_unlocked_2757_64": "4414086522119120876",
+            "unconstrained_ret_fread_unlocked_2866_64": "11321483142210027518",
+            "unconstrained_ret_fread_unlocked_2321_64": "4918938634549054272",
+            "unconstrained_ret_fread_unlocked_2982_64": "5756620138262564859",
+            "unconstrained_ret_fread_unlocked_3421_64": "4290682426184936321",
+            "unconstrained_ret_fread_unlocked_3310_64": "11502658403159736062",
+            "unconstrained_ret_fread_unlocked_3203_64": "7043375409508832640",
+            "unconstrained_ret_fread_unlocked_3642_64": "13220524154308001799",
+            "unconstrained_ret_fread_unlocked_3533_64": "5003073417893642236",
+            "unconstrained_ret_fread_unlocked_2634_64": "7648708997203916563",
+            "unconstrained_ret_fread_unlocked_3745_64": "17788210678305841150",
+            "unconstrained_ret_fread_unlocked_2395_64": "2312838059377157258"
+        },
+        58.498456716537476,
+        "succeed",
+        31.588,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2514_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail152110": [
+        "sat",
+        179.18243432044983,
+        999999999,
+        {
+            "k!58664020": "True",
+            "unconstrained_ret_lseek_4252_64": "14511909296929188103"
+        },
+        282.8513159751892,
+        "succeed",
+        0.017,
+        [
+            [
+                "unconstrained_ret_lseek_4252_64",
+                11344567461346279425
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail93111": [
+        "sat",
+        35.2277672290802,
+        999999999,
+        {
+            "k!14799480": "True",
+            "unconstrained_ret_lseek_2666_64": "7546963513903302567"
+        },
+        3.7941441535949707,
+        "succeed",
+        0.015,
+        [
+            [
+                "unconstrained_ret_lseek_2666_64",
+                2305827396327931007
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail92398": [
+        "sat",
+        44.603336811065674,
+        999999999,
+        {
+            "k!11528030": "True",
+            "unconstrained_ret_lseek_2666_64": "65537319665"
+        },
+        4398.921055793762,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/cat/cat79721": [
+        "sat",
+        1.4354641437530518,
+        999999999,
+        {
+            "mem_7fffffffffefeb0_1705_64": "2161727821566815903",
+            "filesize_file_82_??_2260_64": "9151314442816847872",
+            "unconstrained_ret_getpagesize_7_64": "2701131779"
+        },
+        7.768811464309692,
+        "succeed",
+        0.599,
+        [
+            [
+                "filesize_file_82_??_2260_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/printenv/printenv9157": [
+        "sat",
+        0.4870438575744629,
+        999999999,
+        {
+            "sym_argc_3_8": "255",
+            "k!3975100": "31"
+        },
+        24.54134178161621,
+        "succeed",
+        0.048,
+        [
+            [
+                "k!3975100",
+                9940
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq119522": [
+        "sat",
+        39.25889825820923,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_1698_64": "12663658497460011043",
+            "mem_1_1518_8": "136",
+            "unconstrained_ret_mbrtowc_2047_64": "7689614888758411297",
+            "unconstrained_ret_mbrtowc_2400_64": "11381134034364500291",
+            "unconstrained_ret_mbrtowc_3968_64": "270633792060784643",
+            "unconstrained_ret_mbrtowc_3447_64": "6456473015789027311",
+            "unconstrained_ret_mbrtowc_3094_64": "17365880163140632576",
+            "unconstrained_ret_mbrtowc_2741_64": "14790279291162927073",
+            "unconstrained_ret_mbrtowc_3617_64": "9576528437187706889",
+            "unconstrained_ret_mbrtowc_2224_64": "9773793396312451248",
+            "unconstrained_ret_mbrtowc_1867_64": "8448330688481984512",
+            "unconstrained_ret_mbrtowc_2922_64": "7493989779944505344",
+            "unconstrained_ret_mbrtowc_3798_64": "1873356505735626752",
+            "mem_2_1662_1008": "688454785103521717114470431521532143695610056273861279386604171100385553789449154154061264255543566257353377297301598336622203465128739181841475021196921200502630490876514438361493253635899892985588963139016158229821462798488823676581355364849116195710827050090196045836156856588252965730956800409206784",
+            "unconstrained_ret_mbrtowc_2572_64": "9886378573537750563",
+            "unconstrained_ret_mbrtowc_3274_64": "11457157452030541824",
+            "strlen_1663_64": "58"
+        },
+        5545.869532108307,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/expand/expand444513": [
+        "sat",
+        25.903527975082397,
+        999999999,
+        {
+            "mem_8_3314_8": "255",
+            "unconstrained_ret_mbrtowc_13439_64": "1439448793508528181",
+            "unconstrained_ret_mbrtowc_13593_64": "7470205144412454912",
+            "unconstrained_ret_mbrtowc_12249_64": "8253235315138706380",
+            "unconstrained_ret_mbrtowc_12940_64": "6857145221474075651",
+            "mem_7_3210_8": "127",
+            "strlen_4140_64": "57",
+            "unconstrained_ret_mbrtowc_13282_64": "2113694929397956605",
+            "unconstrained_ret_mbrtowc_13098_64": "3434981476016324608",
+            "unconstrained_ret_mbrtowc_12432_64": "3787419328320634880",
+            "unconstrained_ret_mbrtowc_12789_64": "17827499124946108416",
+            "mem_9_3324_968": "626145979461410220773413722582817464777587444220237564776234139622007689284605393950339729211240701114780058871201364421937665989869183526460465391892975484163411407090118201029530225788986465712004069385844708776169916700308244305699870773475404000837578170592699470581907504921993025683456",
+            "unconstrained_ret_mbrtowc_12626_64": "4156602887913865204"
+        },
+        328.12098002433777,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq140287": [
+        "sat",
+        146.08543014526367,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_3349_64": "3258007074219995184",
+            "unconstrained_ret_mbrtowc_3694_64": "10089591240521671024",
+            "unconstrained_ret_mbrtowc_4219_64": "3605114245756404831",
+            "unconstrained_ret_mbrtowc_3174_64": "5822807125283278800",
+            "unconstrained_ret_mbrtowc_4046_64": "14506173057791057105",
+            "unconstrained_ret_mbrtowc_4558_64": "10706569498053376248",
+            "unconstrained_ret_mbrtowc_2818_64": "3556747426794618464",
+            "unconstrained_ret_mbrtowc_2476_64": "9736460799122208786",
+            "unconstrained_ret_mbrtowc_3874_64": "11128871867277880064",
+            "unconstrained_ret_mbrtowc_4737_64": "16720571318818569849",
+            "unconstrained_ret_mbrtowc_4389_64": "10048329635168183030",
+            "unconstrained_ret_mbrtowc_2301_64": "6630908556671601393",
+            "unconstrained_ret_mbrtowc_2647_64": "14603200224813954561",
+            "mem_1_263_8": "196",
+            "unconstrained_ret_mbrtowc_3525_64": "12934129867102059776",
+            "unconstrained_ret_mbrtowc_2998_64": "14226470652281553840",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947156654659234382225920940040243643562868409600978959646952427156918525531715276720483053758499202509710544497513937460531346395834618374020725925323969514850649742947541779530955058829027679908428638208842203389396232582707970228977482279531053056",
+            "strlen_414_64": "41"
+        },
+        591.2272906303406,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum90004": [
+        "sat",
+        122.57520174980164,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3508_64": "17328859218510420091",
+            "unconstrained_ret_fread_unlocked_3618_64": "15839487335854122713",
+            "unconstrained_ret_fread_unlocked_2959_64": "3384414968995507328",
+            "unconstrained_ret_fread_unlocked_2844_64": "14219723226082451196",
+            "unconstrained_ret_fread_unlocked_2378_64": "5629194263868541494",
+            "unconstrained_ret_fread_unlocked_2613_64": "16150325333641172113",
+            "unconstrained_ret_fread_unlocked_3824_64": "11230751671064835216",
+            "unconstrained_ret_fread_unlocked_3726_64": "8813941028922682331",
+            "unconstrained_ret_fread_unlocked_3068_64": "17376175543420451903",
+            "unconstrained_ret_fread_unlocked_2725_64": "17511818531453219525",
+            "unconstrained_ret_fread_unlocked_3290_64": "5881785147673932282",
+            "unconstrained_ret_fread_unlocked_3400_64": "15122533735506354950",
+            "unconstrained_ret_fread_unlocked_2497_64": "7807675297422188048",
+            "unconstrained_ret_fread_unlocked_3187_64": "9724011360970085384"
+        },
+        5252.768972873688,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq128904": [
+        "sat",
+        50.217289686203,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_1698_64": "13876206943542997004",
+            "unconstrained_ret_mbrtowc_4145_64": "12241675555363383883",
+            "mem_1_1518_8": "132",
+            "unconstrained_ret_mbrtowc_2047_64": "17280049220988960769",
+            "unconstrained_ret_mbrtowc_2400_64": "5416150586754072572",
+            "unconstrained_ret_mbrtowc_3968_64": "5487760149447047509",
+            "unconstrained_ret_mbrtowc_3447_64": "5670539664713318400",
+            "unconstrained_ret_mbrtowc_3094_64": "6018241594721603740",
+            "unconstrained_ret_mbrtowc_3617_64": "5539018805609868155",
+            "unconstrained_ret_mbrtowc_2741_64": "13242676867992911871",
+            "unconstrained_ret_mbrtowc_1867_64": "16921934208736165893",
+            "unconstrained_ret_mbrtowc_2224_64": "2914969587202129922",
+            "unconstrained_ret_mbrtowc_2922_64": "17391291138236743681",
+            "unconstrained_ret_mbrtowc_3798_64": "2704003397517135281",
+            "unconstrained_ret_mbrtowc_4314_64": "844617450565509773",
+            "mem_2_1662_1008": "688454785103521707560241578056807332271653853581348800275078792197112625920230979775508099327591883167575091527219150965139975654477113542917270031586000863207488865583150679247250754817479177441839617528634125326356610964679739886392359839745653991276398579743172948375057745035531618153462233995149312",
+            "unconstrained_ret_mbrtowc_2572_64": "15181074602180739069",
+            "unconstrained_ret_mbrtowc_3274_64": "6843742816103825408",
+            "strlen_1663_64": "9"
+        },
+        8124.396059513092,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq119504": [
+        "sat",
+        42.893444538116455,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_1698_64": "3820932433724875023",
+            "mem_1_1518_8": "127",
+            "unconstrained_ret_mbrtowc_2047_64": "15535204135352664065",
+            "unconstrained_ret_mbrtowc_2400_64": "7033070302955306974",
+            "unconstrained_ret_mbrtowc_3968_64": "17383402120485017349",
+            "unconstrained_ret_mbrtowc_3447_64": "14989247329167864977",
+            "unconstrained_ret_mbrtowc_3094_64": "8138169982160058170",
+            "unconstrained_ret_mbrtowc_2741_64": "4393525422369800193",
+            "unconstrained_ret_mbrtowc_3617_64": "897381826973191302",
+            "unconstrained_ret_mbrtowc_2224_64": "4615295634235195401",
+            "unconstrained_ret_mbrtowc_1867_64": "691786822696566824",
+            "unconstrained_ret_mbrtowc_2922_64": "6643478275577291263",
+            "unconstrained_ret_mbrtowc_3798_64": "15439025656161873261",
+            "mem_2_1662_1008": "688454754447412126295495851767932474460588366310673097953034200698741602427876479050949624238188972279415018315180680402060038216532339945673276635902471068126940486093323476104745729099603008735952954512879757964389538399649471987228510397145704131126269905559522670371809552515913025971003750826901504",
+            "unconstrained_ret_mbrtowc_2572_64": "17828098083905339425",
+            "unconstrained_ret_mbrtowc_3274_64": "11718590490201817088",
+            "strlen_1663_64": "8"
+        },
+        56.3614935874939,
+        "succeed",
+        10.827,
+        [
+            [
+                "unconstrained_ret_mbrtowc_1867_64",
+                8395999381022572544
+            ],
+            [
+                "unconstrained_ret_mbrtowc_3968_64",
+                5431341150608818146
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail208521": [
+        "sat",
+        93.30441164970398,
+        999999999,
+        {
+            "k!98636280": "True",
+            "unconstrained_ret_lseek_5670_64": "42415104032231"
+        },
+        3319.5617542266846,
+        "succeed",
+        0.016,
+        [
+            [
+                "unconstrained_ret_lseek_5670_64",
+                17596481011778
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/printenv/printenv10749": [
+        "sat",
+        3.124295234680176,
+        999999999,
+        {
+            "sym_argc_3_8": "171",
+            "k!5025820": "4194304"
+        },
+        25.813932180404663,
+        "succeed",
+        0.067,
+        [
+            [
+                "k!5025820",
+                9940
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/expand/expand397184": [
+        "sat",
+        1.4721899032592773,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_12634_64": "13771497206076801022",
+            "unconstrained_ret_mbrtowc_12091_64": "3928709316973952971",
+            "mem_3_3417_1000": "5317510729209637475349751472573690735161951935478005349891456271009532487720428004455624147618213866237383624578661399043470962956494156334953756961741174241830300356572171796947061650110579913800040821832806988048705557634459725024082650184678868881075822838917718339853053291521723003238117074272256",
+            "unconstrained_ret_mbrtowc_11905_64": "7492324692661895175",
+            "mem_1_2905_8": "227",
+            "unconstrained_ret_mbrtowc_12258_64": "9864235788798001152",
+            "unconstrained_ret_mbrtowc_12798_64": "2380007376381018112",
+            "unconstrained_ret_mbrtowc_12442_64": "9101174799492841471",
+            "unconstrained_ret_mbrtowc_12943_64": "8802283040744144924",
+            "strlen_3608_64": "58"
+        },
+        20.432693481445312,
+        "succeed",
+        1.154,
+        [
+            [
+                "unconstrained_ret_mbrtowc_12634_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/stat/stat111712": [
+        "sat",
+        52.64337992668152,
+        999999999,
+        {
+            "mem_7fffffffffefed8_2695_64": "18446740637736132484"
+        },
+        4934.841646909714,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/expand/expand416916": [
+        "sat",
+        0.9801292419433594,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_13225_64": "6629454782140514304",
+            "unconstrained_ret_mbrtowc_13043_64": "16056877485412843524",
+            "unconstrained_ret_mbrtowc_12194_64": "5635830109865770963",
+            "unconstrained_ret_mbrtowc_12892_64": "6915134703615868991",
+            "unconstrained_ret_mbrtowc_12372_64": "5764607523034234869",
+            "mem_3_3417_1000": "10675053766393227822097930717347579917526315816166168077213372847221733590509606861477107902525465478866097337665687390690727357721177571009553255615554009691435978316150236233568586195348597707432743037533048289383559753438837316611360279327784998912946155650055877473059958530409587554777576591327232",
+            "mem_1_2905_8": "255",
+            "unconstrained_ret_mbrtowc_12570_64": "9223372036854775790",
+            "unconstrained_ret_mbrtowc_12741_64": "5114955580204646400",
+            "strlen_3608_64": "58"
+        },
+        23.641215085983276,
+        "succeed",
+        4.175,
+        [
+            [
+                "unconstrained_ret_mbrtowc_12194_64",
+                8395999381022572544
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/date/date92431": [
+        "sat",
+        77.76632046699524,
+        999999999,
+        {
+            "tv_sec_2674_64": "54054563663189"
+        },
+        3214.7608346939087,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/expr/expr273314": [
+        "sat",
+        10.369832277297974,
+        999999999,
+        {
+            "unconstrained_ret_strtoimax_1323_64": "18446744071562067968"
+        },
+        30.33776021003723,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/wc/wc13115": [
+        "sat",
+        10.268511056900024,
+        999999999,
+        {
+            "mem_c0000ff0_1185_64": "6701770761410969659"
+        },
+        4.009568929672241,
+        "succeed",
+        0.015,
+        [
+            [
+                "mem_c0000ff0_1185_64",
+                2305827396327931007
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum80515": [
+        "sat",
+        66.65183520317078,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "2101778866618110295",
+            "unconstrained_ret_fread_unlocked_2339_64": "14917829392314117368",
+            "unconstrained_ret_fread_unlocked_2778_64": "15861368215709023641",
+            "unconstrained_ret_fread_unlocked_3006_64": "7018034590543580899",
+            "unconstrained_ret_fread_unlocked_3332_64": "3487191755682783188",
+            "unconstrained_ret_fread_unlocked_3226_64": "12310959113632825842",
+            "unconstrained_ret_fread_unlocked_2275_64": "8223873618463997973",
+            "unconstrained_ret_fread_unlocked_2538_64": "8329121585200135172",
+            "unconstrained_ret_fread_unlocked_3447_64": "1782847587011715935",
+            "unconstrained_ret_fread_unlocked_3662_64": "1945549729836754962",
+            "unconstrained_ret_fread_unlocked_2888_64": "10196550871295977321",
+            "unconstrained_ret_fread_unlocked_3116_64": "13440252454381553653",
+            "unconstrained_ret_fread_unlocked_3557_64": "13323937885281132047",
+            "unconstrained_ret_fread_unlocked_2417_64": "16187912849995153056"
+        },
+        2478.237317800522,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum75098": [
+        "sat",
+        33.807899475097656,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "10658680672037906040",
+            "unconstrained_ret_fread_unlocked_3226_64": "14976844654837570676",
+            "unconstrained_ret_fread_unlocked_2275_64": "17077164965158312800",
+            "unconstrained_ret_fread_unlocked_2538_64": "13710709320590853952",
+            "unconstrained_ret_fread_unlocked_3447_64": "15060037153926938662",
+            "unconstrained_ret_fread_unlocked_2339_64": "1513026613242119966",
+            "unconstrained_ret_fread_unlocked_2888_64": "9794035863229430898",
+            "unconstrained_ret_fread_unlocked_2778_64": "503049247000367133",
+            "unconstrained_ret_fread_unlocked_3006_64": "14668794854708816886",
+            "unconstrained_ret_fread_unlocked_3116_64": "6325869980571480314",
+            "unconstrained_ret_fread_unlocked_2417_64": "2575724476786490850",
+            "unconstrained_ret_fread_unlocked_3332_64": "10736398580387414000",
+            "unconstrained_ret_fread_unlocked_3557_64": "11526872133489159160"
+        },
+        160.12568259239197,
+        "succeed",
+        0.447,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2417_64",
+                8395999381022572544
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_2275_64",
+                5431341150608818146
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_3006_64",
+                30210
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_2339_64",
+                17179978447968010240
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_3447_64",
+                5764209498751565824
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_3557_64",
+                17603707551885557764
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_3332_64",
+                11785107686870027955
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_3116_64",
+                6791608540801794088
+            ],
+            [
+                "unconstrained_ret_fread_unlocked_2888_64",
+                7172965918022881567
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail208025": [
+        "sat",
+        39.806172370910645,
+        999999999,
+        {
+            "unconstrained_ret_lseek_5670_64": "18446726481525612537",
+            "unconstrained_ret_lseek_5705_64": "18446744073541787641"
+        },
+        312.5000092983246,
+        "succeed",
+        29.345,
+        [
+            [
+                "unconstrained_ret_lseek_5670_64",
+                15536814695057981440
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum80527": [
+        "sat",
+        49.75587749481201,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "12577767124679661620",
+            "unconstrained_ret_fread_unlocked_2339_64": "6657102579967754601",
+            "unconstrained_ret_fread_unlocked_2778_64": "3981638399060097274",
+            "unconstrained_ret_fread_unlocked_3006_64": "126204888101838057",
+            "unconstrained_ret_fread_unlocked_3332_64": "9778862538863518446",
+            "unconstrained_ret_fread_unlocked_3226_64": "158117592380143648",
+            "unconstrained_ret_fread_unlocked_2275_64": "4371936640940229598",
+            "unconstrained_ret_fread_unlocked_2538_64": "8994817535115275458",
+            "unconstrained_ret_fread_unlocked_3447_64": "5777892918630331630",
+            "unconstrained_ret_fread_unlocked_3662_64": "4393487797917848021",
+            "unconstrained_ret_fread_unlocked_2888_64": "7768649327509557727",
+            "unconstrained_ret_fread_unlocked_3116_64": "8865696874768326669",
+            "unconstrained_ret_fread_unlocked_3557_64": "15346102213726437400",
+            "unconstrained_ret_fread_unlocked_2417_64": "3435443936886737954"
+        },
+        2459.5754613876343,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail175492": [
+        "sat",
+        92.91013169288635,
+        999999999,
+        {
+            "k!74328510": "True",
+            "unconstrained_ret_lseek_4874_64": "18443225636500668405"
+        },
+        3610.0902144908905,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq119515": [
+        "sat",
+        30.035747528076172,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_1698_64": "8146492729698706229",
+            "mem_1_1518_8": "223",
+            "unconstrained_ret_mbrtowc_2047_64": "1925851790654308368",
+            "unconstrained_ret_mbrtowc_2400_64": "2964679578334789632",
+            "unconstrained_ret_mbrtowc_3968_64": "7116030081000378127",
+            "unconstrained_ret_mbrtowc_3447_64": "9166492908877702865",
+            "unconstrained_ret_mbrtowc_3094_64": "11888403392491421721",
+            "unconstrained_ret_mbrtowc_2741_64": "7271211078132957184",
+            "unconstrained_ret_mbrtowc_3617_64": "14285297068939198976",
+            "unconstrained_ret_mbrtowc_2224_64": "5324380659458768872",
+            "unconstrained_ret_mbrtowc_1867_64": "13231575705214517256",
+            "unconstrained_ret_mbrtowc_2922_64": "8355062416639262720",
+            "unconstrained_ret_mbrtowc_3798_64": "8930065355708152064",
+            "mem_2_1662_1008": "43028097070493717015894728400874714673681749799812896181497049636243006061852326585363351639280065928018243892253643173765274779118476215626654818150122573754499744981608543129124469288952903560854094652155414396420194267435693662274585411368602415654125335572951177597596505410389209603000422730039296",
+            "unconstrained_ret_mbrtowc_2572_64": "11498968366312325129",
+            "unconstrained_ret_mbrtowc_3274_64": "575953310794820578",
+            "strlen_1663_64": "30"
+        },
+        5156.3042912483215,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who194824": [
+        "sat",
+        5.885530948638916,
+        999999999,
+        {
+            "strncmp_ret_7803_64": "0",
+            "mem_155_2740_336": "129592469456357535608988361935012896345060686075900480205456961388181892982837242810443132776529002496",
+            "mem_2_1858_2712": "970121506895335055325723460396029393602007254752038025196147568812470076370975999793346304873173142883621714662889306362877378833876596339413974879780644422700685421644921046902406750458465967260859737369600505890592045480929424665031733980405405964354721287111401733296183051176918009343766629601386767566048414799299065250810774948221879471653154938324856750292563574691071387173138554215310082123912649633205459849323482972473778404104425720421635434552970773583078591951941550167827121987802288967124980885721682313394747111771952924450034619038172641821436612172127523702064053092909978536214011879928450787833333664836110016480678077178474566870888737428805756040716812869941053504806172874243454230127158073853092868479925304503476371966523823846340521608940823882862068047853018289745514452432669359751609637",
+            "mem_800000000000002d_2221_2712": "3398433020972872254490725227412064773150872952704599884842879696858611303893756680415207477142503943873055208074444500038897874602744291983899704627168529813916927777944887391243799518397389367177484790351894877725427449810982925693846283809274238772006267081615415605424249307272312296823970910600332888811258934639652795360650393076677395718682946321185829322866414368991870168547057242655732559565794366379483142102002273673352796451504364477592941760272554811030663870212398620397628389095994352604237130680654704621903009687668245160686918874937434125516247324859303360107712977458585657138462407412374974478762211703128316474900340214703485999343228531331192789241670701483891636561301615064178322639933932718506229743848155689650699121558195174631992533301854208",
+            "strlen_7802_64": "42",
+            "strlen_7977_64": "42",
+            "strlen_7658_64": "48",
+            "strlen_7726_64": "43",
+            "strncmp_ret_7728_64": "1",
+            "strlen_7801_64": "43",
+            "mem_8000000000000008_2220_288": "2557737434550906288414219131166088681474233101842164589684346263808884518944768",
+            "strncmp_ret_7659_64": "0",
+            "mem_1_1552_8": "47",
+            "strlen_7727_64": "0"
+        },
+        427.9669692516327,
+        "succeed",
+        7.891,
+        [
+            [
+                "mem_800000000000002d_2221_2712",
+                4482966997728825352
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq152928": [
+        "sat",
+        446.309228181839,
+        999999999,
+        {
+            "mem_2_280_1008": "21514212034485053681525695354239839948125760585786861975442055808104243709609142925853025570219273624686110345663901386706595532785623604031579459865596085025776421462488964959623233383658550996201908263288118187415787868971730159333153150970199511782502404457186163080594760485470716175328561539842048",
+            "unconstrained_ret_mbrtowc_3694_64": "4179528330113146264",
+            "unconstrained_ret_mbrtowc_4219_64": "4099120085837283328",
+            "unconstrained_ret_mbrtowc_3174_64": "1044748137912074249",
+            "unconstrained_ret_mbrtowc_3349_64": "8749438244170498049",
+            "unconstrained_ret_mbrtowc_3525_64": "10818625158055460865",
+            "unconstrained_ret_mbrtowc_4046_64": "11475923834981711872",
+            "unconstrained_ret_mbrtowc_4558_64": "10521380809862831696",
+            "unconstrained_ret_mbrtowc_5256_64": "443476349399556482",
+            "unconstrained_ret_mbrtowc_2818_64": "4216268543282380839",
+            "unconstrained_ret_mbrtowc_2476_64": "17367214301315596289",
+            "unconstrained_ret_mbrtowc_3874_64": "18325698892813452324",
+            "unconstrained_ret_mbrtowc_4737_64": "7803307051668471807",
+            "unconstrained_ret_mbrtowc_4389_64": "10060390656662044672",
+            "unconstrained_ret_mbrtowc_2301_64": "2816236771597950586",
+            "unconstrained_ret_mbrtowc_2647_64": "7446813486576828422",
+            "mem_1_263_8": "255",
+            "unconstrained_ret_mbrtowc_4911_64": "7075479788349030367",
+            "unconstrained_ret_mbrtowc_2998_64": "747294606986575829",
+            "unconstrained_ret_mbrtowc_5084_64": "1936263466381967361",
+            "strlen_414_64": "56"
+        },
+        6683.687525033951,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/expand/expand435350": [
+        "sat",
+        8.201973676681519,
+        999999999,
+        {
+            "mem_8_3314_8": "255",
+            "unconstrained_ret_mbrtowc_13474_64": "17029707220738113554",
+            "unconstrained_ret_mbrtowc_12295_64": "7617417133313359969",
+            "mem_7_3210_8": "175",
+            "unconstrained_ret_mbrtowc_12822_64": "2574194211845824533",
+            "unconstrained_ret_mbrtowc_12975_64": "10601605141834498048",
+            "unconstrained_ret_mbrtowc_12483_64": "4281181369686605962",
+            "strlen_4140_64": "57",
+            "unconstrained_ret_mbrtowc_13139_64": "8642091025575182315",
+            "unconstrained_ret_mbrtowc_12670_64": "14930514683298406159",
+            "unconstrained_ret_mbrtowc_11938_64": "8313173782382510079",
+            "mem_9_3324_968": "626145979461410220773413335648346418147768338502621659124422724450626315172162429135367297565315976951064623507000233698995584097234972639533636006339862422138608594347072775100889429434152566048633690201220851755749655078492907997313723200335341720173819515411226822704437402568059967766528",
+            "unconstrained_ret_mbrtowc_12122_64": "9899791590262570983",
+            "unconstrained_ret_mbrtowc_13323_64": "8344044209610686464"
+        },
+        2022.602659702301,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail105896": [
+        "sat",
+        9.538013219833374,
+        999999999,
+        {
+            "k!23105450": "True",
+            "unconstrained_ret_lseek_3131_64": "7070851"
+        },
+        403.8254008293152,
+        "succeed",
+        0.016,
+        [
+            [
+                "unconstrained_ret_lseek_3131_64",
+                8983910
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail209955": [
+        "sat",
+        312.13136196136475,
+        999999999,
+        {
+            "unconstrained_ret_lseek_5670_64": "13409190472718226740",
+            "unconstrained_ret_lseek_5705_64": "17507371060583159092"
+        },
+        3471.8777928352356,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail110861": [
+        "sat",
+        10.210482358932495,
+        999999999,
+        {
+            "k!27743920": "True",
+            "unconstrained_ret_lseek_3287_64": "10759828503177195508"
+        },
+        28.262850046157837,
+        "succeed",
+        0.004,
+        [
+            [
+                "unconstrained_ret_lseek_3287_64",
+                13672928468696825895
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/factor/factor43038": [
+        "sat",
+        0.7491533756256104,
+        999999999,
+        {
+            "unconstrained_ret_strtoumax_815_64": "16748484890583379674"
+        },
+        560.4292078018188,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum77481": [
+        "sat",
+        102.8961112499237,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "5048437397488576563",
+            "unconstrained_ret_fread_unlocked_2814_64": "257859734377332736",
+            "unconstrained_ret_fread_unlocked_2291_64": "6376699411576944164",
+            "unconstrained_ret_fread_unlocked_2353_64": "5394261775464006155",
+            "unconstrained_ret_fread_unlocked_2704_64": "18097329117101895554",
+            "unconstrained_ret_fread_unlocked_3374_64": "7236114212797571395",
+            "unconstrained_ret_fread_unlocked_3485_64": "3407524128464940106",
+            "unconstrained_ret_fread_unlocked_2246_64": "661582759080333296",
+            "unconstrained_ret_fread_unlocked_2453_64": "16527390744999134318",
+            "unconstrained_ret_fread_unlocked_2213_64": "9088038613743273686",
+            "unconstrained_ret_fread_unlocked_2596_64": "8395664744010877760",
+            "unconstrained_ret_fread_unlocked_3155_64": "7802670326109199410",
+            "unconstrained_ret_fread_unlocked_3046_64": "16141627872115957239",
+            "unconstrained_ret_fread_unlocked_2938_64": "11161304233433087948",
+            "unconstrained_ret_fread_unlocked_3265_64": "13530703445203731041"
+        },
+        5329.6560661792755,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/pinky/pinky137104": [
+        "sat",
+        9.626414060592651,
+        999999999,
+        {
+            "mem_e000000000000000_1526_96": "0",
+            "sym_argv2_1_16": "65280",
+            "strlen_2905_64": "1",
+            "strlen_2510_64": "1",
+            "mem_e00000000000000c_1331_8": "255",
+            "mem_dfffffffffffffe2_1537_240": "3144704889002542988254259339153144874906673130250856038400",
+            "strncmp_ret_2511_64": "0",
+            "strlen_2508_64": "1",
+            "mem_e00000000000000d_1527_2712": "1323608568571018897486446932825932783518890402988229856777365184771623049195052569053103370342331706787117722689660830924718020018840119107678444862746764200998243315599457750023608515839340009079496093737316192969817284107094203392937645651812162473947611061662737769474184175695655732758649565363113277530200736156076134150627975766073218595440194537421667709014033486188079966784188280721104543142975512501435952246798265884377165896964612643389228446298721583407811341558436134415488483169203935311780828953868801979399302002281098330759826186670239110869000297057299584993276493008808476672429631346090942511180524744528474216903713507735487217583788721675728611625399445822512438499296633076061955929580052564934193313478487722568371799953421698978164746768817557910450316320109462202402627410792784641130496",
+            "strlen_2671_64": "7",
+            "strlen_2432_64": "9",
+            "sym_argv_0_80": "21181721716369395777024",
+            "strncmp_ret_2433_64": "1",
+            "strlen_2430_64": "1"
+        },
+        89.8771800994873,
+        "succeed",
+        11.92,
+        [
+            [
+                "mem_e000000000000000_1526_96",
+                7032322443603607552
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq135052": [
+        "sat",
+        4.411777496337891,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_4046_64": "6915400373129707520",
+            "unconstrained_ret_mbrtowc_2998_64": "6762049287380533248",
+            "unconstrained_ret_mbrtowc_4219_64": "10337942575884795904",
+            "unconstrained_ret_mbrtowc_3174_64": "17496167892985577472",
+            "unconstrained_ret_mbrtowc_4558_64": "10728456515390581440",
+            "unconstrained_ret_mbrtowc_3694_64": "16930561519471558656",
+            "unconstrained_ret_mbrtowc_2818_64": "1830396589177307136",
+            "unconstrained_ret_mbrtowc_2476_64": "1269442249360408566",
+            "unconstrained_ret_mbrtowc_3874_64": "8643551177016868863",
+            "unconstrained_ret_mbrtowc_4389_64": "13448874387235143680",
+            "unconstrained_ret_mbrtowc_2301_64": "7348411846735123819",
+            "unconstrained_ret_mbrtowc_2647_64": "16852311475945996288",
+            "mem_1_263_8": "192",
+            "unconstrained_ret_mbrtowc_3525_64": "5008812026194034688",
+            "unconstrained_ret_mbrtowc_3349_64": "5554830600059224064",
+            "mem_2_280_1008": "688454785103521717100013447074808894415914164773613190389131169881792826043969157745523225781347859546898014989796598210257321340980328208427940577745731910934760402349669295268564457014664553093589940915948088964589493292327018954738267760162963143910722953273898771014856904875276538101799193120079872",
+            "strlen_414_64": "46"
+        },
+        59.051464796066284,
+        "succeed",
+        24.839,
+        [
+            [
+                "unconstrained_ret_mbrtowc_3525_64",
+                2298540065
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/head/head64204": [
+        "sat",
+        2.6184003353118896,
+        999999999,
+        {
+            "unconstrained_ret_lseek_1775_64": "6474422682678016",
+            "unconstrained_ret_lseek_1808_64": "8646911714724762368"
+        },
+        14.433546781539917,
+        "succeed",
+        5.426,
+        [
+            [
+                "unconstrained_ret_lseek_1775_64",
+                1548097734660063232
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq116452": [
+        "sat",
+        221.4308009147644,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_1698_64": "11781207792106405899",
+            "mem_1_1518_8": "193",
+            "unconstrained_ret_mbrtowc_2047_64": "16398469970188566535",
+            "unconstrained_ret_mbrtowc_2400_64": "2161702838667046223",
+            "unconstrained_ret_mbrtowc_3447_64": "480753038156365832",
+            "unconstrained_ret_mbrtowc_3094_64": "17877254636852838396",
+            "unconstrained_ret_mbrtowc_2741_64": "10633215882388062723",
+            "unconstrained_ret_mbrtowc_3617_64": "13306258667327151488",
+            "unconstrained_ret_mbrtowc_1867_64": "4928929521551278107",
+            "unconstrained_ret_mbrtowc_2224_64": "5650415966955537090",
+            "unconstrained_ret_mbrtowc_2922_64": "351144788519685636",
+            "unconstrained_ret_mbrtowc_3798_64": "9171725139861021315",
+            "mem_2_1662_1008": "688454785103521717114470431521532143695610056273861279386604171100385553789449154154061264255543566257353377297301598336622199396976463151849822660536329839090736995527301584353847387148237512988806104626231974073077707207574073526682322394885227709620901514069606697145111201873953781403616805568643072",
+            "unconstrained_ret_mbrtowc_2572_64": "2078924009288482799",
+            "unconstrained_ret_mbrtowc_3274_64": "15860462190394867693",
+            "strlen_1663_64": "54"
+        },
+        5200.642867326736,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/head/head51283": [
+        "sat",
+        40.40772986412048,
+        999999999,
+        {
+            "unconstrained_ret_lseek_1520_64": "212864195848",
+            "unconstrained_ret_lseek_1552_64": "212998651144"
+        },
+        1438.410772562027,
+        "succeed",
+        49.921,
+        [
+            [
+                "unconstrained_ret_lseek_1520_64",
+                4290705387
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/ginstall/ginstall311249": [
+        "sat",
+        1.908935546875,
+        999999999,
+        {
+            "unconstrained_ret_getpagesize_7037_64": "4026526888",
+            "mem_7fffffffffef838_7080_64": "7",
+            "filesize_file_9_??????????_6614_64": "57315342133314008"
+        },
+        27.182257652282715,
+        "succeed",
+        18.063,
+        [
+            [
+                "filesize_file_9_??????????_6614_64",
+                2298540065
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail174910": [
+        "sat",
+        103.64296388626099,
+        999999999,
+        {
+            "k!72267830": "True",
+            "unconstrained_ret_lseek_4874_64": "26219713418621"
+        },
+        321.27114629745483,
+        "succeed",
+        0.014,
+        [
+            [
+                "unconstrained_ret_lseek_4874_64",
+                17679449886388
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/date/date62962": [
+        "sat",
+        5.764280319213867,
+        999999999,
+        {
+            "tv_sec_2376_64": "7921840"
+        },
+        155.46768760681152,
+        "succeed",
+        0.011,
+        [
+            [
+                "tv_sec_2376_64",
+                4230462
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/date/date23698": [
+        "sat",
+        71.50331091880798,
+        999999999,
+        {
+            "tv_sec_1798_64": "82642007895"
+        },
+        4234.2064888477325,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail147705": [
+        "sat",
+        15.837724447250366,
+        999999999,
+        {
+            "k!46612110": "True",
+            "unconstrained_ret_lseek_4252_64": "1388396625839333763"
+        },
+        3.863243818283081,
+        "succeed",
+        0.012,
+        [
+            [
+                "unconstrained_ret_lseek_4252_64",
+                1548097734660063232
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum77493": [
+        "sat",
+        449.50604152679443,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "7308823307274043414",
+            "unconstrained_ret_fread_unlocked_2814_64": "11517678488041957760",
+            "unconstrained_ret_fread_unlocked_2291_64": "18016703145268826962",
+            "unconstrained_ret_fread_unlocked_2353_64": "3144906761480689869",
+            "unconstrained_ret_fread_unlocked_2704_64": "7427582575342074991",
+            "unconstrained_ret_fread_unlocked_3374_64": "11691700560699951904",
+            "unconstrained_ret_fread_unlocked_3485_64": "7051500338948581270",
+            "unconstrained_ret_fread_unlocked_2246_64": "7000502600414852179",
+            "unconstrained_ret_fread_unlocked_2453_64": "4346063847624360033",
+            "unconstrained_ret_fread_unlocked_2213_64": "6687775004823004259",
+            "unconstrained_ret_fread_unlocked_2596_64": "7340319377440228622",
+            "unconstrained_ret_fread_unlocked_3155_64": "15012981010907942077",
+            "unconstrained_ret_fread_unlocked_3046_64": "16694359318654046352",
+            "unconstrained_ret_fread_unlocked_2938_64": "10464028989774849329",
+            "unconstrained_ret_fread_unlocked_3265_64": "13869027262981003953"
+        },
+        1443.9560022354126,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/factor/factor47571": [
+        "sat",
+        0.7033877372741699,
+        999999999,
+        {
+            "unconstrained_ret_strtoumax_716_64": "9213759569538827264"
+        },
+        578.2460961341858,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail241196": [
+        "sat",
+        8.426239013671875,
+        999999999,
+        {
+            "k!115601500": "True",
+            "unconstrained_ret_lseek_6550_64": "9837847437487284794"
+        },
+        28.79270100593567,
+        "succeed",
+        0.012,
+        [
+            [
+                "unconstrained_ret_lseek_6550_64",
+                13672928468696825895
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail149820": [
+        "sat",
+        69.1284453868866,
+        999999999,
+        {
+            "k!52901870": "True",
+            "unconstrained_ret_lseek_4252_64": "18446679410106134115"
+        },
+        4797.777916908264,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq133629": [
+        "sat",
+        299.75140142440796,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_1698_64": "13042581198456232680",
+            "unconstrained_ret_mbrtowc_4145_64": "5854923256925574571",
+            "mem_1_1518_8": "255",
+            "unconstrained_ret_mbrtowc_4481_64": "14103073478009533469",
+            "unconstrained_ret_mbrtowc_2047_64": "5832047075356794353",
+            "unconstrained_ret_mbrtowc_2400_64": "15258339972921028610",
+            "unconstrained_ret_mbrtowc_3968_64": "15818437148991741952",
+            "unconstrained_ret_mbrtowc_3447_64": "12268624562140479616",
+            "unconstrained_ret_mbrtowc_3094_64": "11115230496748183115",
+            "unconstrained_ret_mbrtowc_3617_64": "10458014351514350055",
+            "unconstrained_ret_mbrtowc_2741_64": "7738591887845424433",
+            "unconstrained_ret_mbrtowc_1867_64": "9325253536212833828",
+            "unconstrained_ret_mbrtowc_2224_64": "7167429970431468047",
+            "unconstrained_ret_mbrtowc_2922_64": "14940398257695822345",
+            "unconstrained_ret_mbrtowc_3798_64": "13636951063626999552",
+            "unconstrained_ret_mbrtowc_4314_64": "18154339995168341343",
+            "mem_2_1662_1008": "21514212034485053659827200985047891921703101780621028018973029853895359269027611282063617798159906732638986120830865107267544155508195071366257204441556436322776523063140474432737847764893943028848555004465897436529166312030882542702074054079748857166841437187733437844419758948668500439305808966057984",
+            "unconstrained_ret_mbrtowc_2572_64": "823872627622061659",
+            "unconstrained_ret_mbrtowc_3274_64": "8929331857428646568",
+            "strlen_1663_64": "38"
+        },
+        9309.975069761276,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail87707": [
+        "sat",
+        1.6568279266357422,
+        999999999,
+        {
+            "k!6738080": "True",
+            "unconstrained_ret_lseek_2666_64": "11240847059164594169"
+        },
+        16.859803915023804,
+        "succeed",
+        0.016,
+        [
+            [
+                "unconstrained_ret_lseek_2666_64",
+                13672928468696825895
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/expand/expand439860": [
+        "sat",
+        2.457219123840332,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_13215_64": "16766778147130198592",
+            "unconstrained_ret_mbrtowc_12557_64": "14735326183033143296",
+            "unconstrained_ret_mbrtowc_12882_64": "18078370294016571915",
+            "unconstrained_ret_mbrtowc_12361_64": "665727410308651136",
+            "unconstrained_ret_mbrtowc_12187_64": "15767119634353018591",
+            "unconstrained_ret_mbrtowc_12734_64": "4144894476528484472",
+            "mem_3_3417_1000": "9335668005040207754793908793295946089183455257438855326111672601403641972126423128153626100891126904456019448342501540915755415673021059770728959356429620134207168880600978647569308692315285849903376690058016048546553252866978871061613428788162286840903468899659103430838023925298090500446981942411264",
+            "mem_1_2905_8": "127",
+            "unconstrained_ret_mbrtowc_13534_64": "1375761792281514885",
+            "unconstrained_ret_mbrtowc_12009_64": "18118559712035583700",
+            "unconstrained_ret_mbrtowc_13030_64": "16939131538810951170",
+            "unconstrained_ret_mbrtowc_13380_64": "4088795253759191888",
+            "strlen_3608_64": "59"
+        },
+        2416.9182806015015,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/wc/wc31188": [
+        "sat",
+        8.336258888244629,
+        999999999,
+        {
+            "mem_c0000ff0_2881_64": "7551472451"
+        },
+        94.63874077796936,
+        "succeed",
+        0.011,
+        [
+            [
+                "mem_c0000ff0_2881_64",
+                1610614114
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq140254": [
+        "sat",
+        68.7293336391449,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_3349_64": "13960872028941832384",
+            "unconstrained_ret_mbrtowc_3694_64": "15259350964348462594",
+            "unconstrained_ret_mbrtowc_4219_64": "11633689552333477237",
+            "unconstrained_ret_mbrtowc_3174_64": "17962711078888647247",
+            "unconstrained_ret_mbrtowc_4046_64": "7240644656568718656",
+            "unconstrained_ret_mbrtowc_4558_64": "13026301670763392710",
+            "unconstrained_ret_mbrtowc_2818_64": "6845436441353102080",
+            "unconstrained_ret_mbrtowc_2476_64": "10405968264689151360",
+            "unconstrained_ret_mbrtowc_3874_64": "5550078766574682952",
+            "unconstrained_ret_mbrtowc_4737_64": "13584923337341962608",
+            "unconstrained_ret_mbrtowc_4389_64": "10828458575330962178",
+            "unconstrained_ret_mbrtowc_2301_64": "8086986675059929976",
+            "unconstrained_ret_mbrtowc_2647_64": "13228959961309243788",
+            "mem_1_263_8": "129",
+            "unconstrained_ret_mbrtowc_3525_64": "11684914909323599360",
+            "unconstrained_ret_mbrtowc_2998_64": "6721399780558799456",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947156654659234382225920940040243643562950920282556258285136894680947608481196403622415712656001821070231480517023254685464850916387706408407669099177557433952107884486598399753779405814926925321201846525277564951488968689808833309054504006825541632",
+            "strlen_414_64": "56"
+        },
+        1254.144315481186,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail209657": [
+        "sat",
+        70.80394506454468,
+        999999999,
+        {
+            "unconstrained_ret_lseek_5670_64": "10763246798904399768",
+            "unconstrained_ret_lseek_5705_64": "671088689207192"
+        },
+        3919.014142036438,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq128916": [
+        "sat",
+        46.80058526992798,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_1698_64": "14067368176243156568",
+            "unconstrained_ret_mbrtowc_4145_64": "11485932660137840189",
+            "mem_1_1518_8": "138",
+            "unconstrained_ret_mbrtowc_2047_64": "17803898019085156353",
+            "unconstrained_ret_mbrtowc_2400_64": "10668627383845650432",
+            "unconstrained_ret_mbrtowc_3968_64": "8653839820537699300",
+            "unconstrained_ret_mbrtowc_3447_64": "17687184935125514450",
+            "unconstrained_ret_mbrtowc_3094_64": "10493047212688476025",
+            "unconstrained_ret_mbrtowc_3617_64": "14644820276025882470",
+            "unconstrained_ret_mbrtowc_2741_64": "11918570520851095825",
+            "unconstrained_ret_mbrtowc_1867_64": "4201277596829614087",
+            "unconstrained_ret_mbrtowc_2224_64": "13494190665652764672",
+            "unconstrained_ret_mbrtowc_2922_64": "17569456782556799241",
+            "unconstrained_ret_mbrtowc_3798_64": "18430413399201012176",
+            "unconstrained_ret_mbrtowc_4314_64": "6974031161597330803",
+            "mem_2_1662_1008": "688454785103521717114470431521532044640379541122061179696844136104636596165242030070563609623223241489042114069449748301026016225474381743841539904803447628482028450384433511997368927177851564862483795741383543592268024520843262178798266716381192077632604425832572028703688367531518715398990656962560000",
+            "unconstrained_ret_mbrtowc_2572_64": "3223903427050602495",
+            "unconstrained_ret_mbrtowc_3274_64": "3150878699666921096",
+            "strlen_1663_64": "36"
+        },
+        7210.90315079689,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who181087": [
+        "sat",
+        14.978914022445679,
+        999999999,
+        {
+            "strlen_7454_64": "18",
+            "mem_8000000000000008_2220_288": "2414944788315236437251513328693585572817133667445608879027581813644746020350072979456",
+            "mem_2_1858_2712": "970121506848441610395748810901470359742197978600553715934848940808301797670502455053527727314365986121671527332647204358763763743835535686283850089008609520276294809782892137959057498746832352320091126960919035340817490486720555061844079159067670920933442810164364821831418638969237187551741235834747070173753145023120778144098823950884821359930474731496579378059954184183898700852464501102450109681953895188010523541631193062752077948066157377772736418670040019733339650203048712473536468373002632147169731267881432478203321019899290969243315956018764738754488677158372991794625514506715266253384093839437765751273418687842271263657757576828118921339571504332274674228155082066760590030411790885695138758648999321616055445616899439846607051913053414627325973219323692577476954311346298008358542731167383305618194432",
+            "mem_800000000000002d_2221_2712": "3398433020972872254490725227412064773150872952704599884842879696858611303893756680415207477142503943873055208074444500038897874602744291983899704627168529813916927777944887391243799518397389367177484790351894877725427449810982925693846283809274238772006267081615415605424249307272312296823970910600332888811258934639652795360650393076677395718682946321185829322866414368991870168547057242655732559565794366379483142102002273673352796451504364477592941760272554811030663870212398620397628389095994352604237130680654704621903009687668245160686918874937434125516247324859303360107712977458585657138462407412374974478762211703128316474900340214703485999343228531331198651623698133290632770206625020322694564311872427579389351959074853709360443868772356318459886490500464640",
+            "strlen_7248_64": "18",
+            "strlen_7249_64": "18",
+            "mem_1_1552_8": "47",
+            "strncmp_ret_7250_64": "0",
+            "strlen_7157_64": "23",
+            "strncmp_ret_7158_64": "0"
+        },
+        441.94912004470825,
+        "succeed",
+        13.793,
+        [
+            [
+                "mem_2_1858_2712",
+                970121506845653594312655257715482146571479950952769147194643307249465658767199638243091686378148750606454264513773447273964781593451706702000559293315698327609007345768492790039247606420664530540115813907108268118016526971988532791777370992085854925192574128108029876010340067598411985918565091070501691719913574373717185296027548580574007733198200405535406952038314999446119725569572531797660401251255125099264700256623790548826505328529233841601774811613964536120022720807296803060844558931270403821665896003295831296911246560234959032718107004095082931888239750798985086977154545306342837949676917262033212218346566515187713736792977141186167072457724884712231377080884606398857946643020547660836952071444463319357579217433968588895291942009341173014971267608135530273091892765021058040553132776419708723634695901
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail152129": [
+        "sat",
+        151.08965253829956,
+        999999999,
+        {
+            "unconstrained_ret_lseek_4293_64": "18443883558380909597",
+            "unconstrained_ret_lseek_4252_64": "18300137872670053405"
+        },
+        3762.473954439163,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail209666": [
+        "sat",
+        172.73257303237915,
+        999999999,
+        {
+            "k!104523730": "True",
+            "unconstrained_ret_lseek_5670_64": "11574165790189549661"
+        },
+        40.30640006065369,
+        "succeed",
+        0.015,
+        [
+            [
+                "unconstrained_ret_lseek_5670_64",
+                13672928468696825895
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail198158": [
+        "sat",
+        9.639563798904419,
+        999999999,
+        {
+            "unconstrained_ret_lseek_5464_64": "203303921536342983",
+            "unconstrained_ret_lseek_5408_64": "373156830767080505"
+        },
+        5.559078216552734,
+        "succeed",
+        0.072,
+        [
+            [
+                "unconstrained_ret_lseek_5408_64",
+                1548097734660063232
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/pinky/pinky126655": [
+        "sat",
+        15.142071008682251,
+        999999999,
+        {
+            "strlen_2777_64": "1",
+            "mem_e000000000000000_1526_96": "9444877646084932894720",
+            "mem_e00000000000000d_1527_2712": "1129305846479563509679658868592807007740064276948074963770963068873641495699651721947859784620062853642108909804888117144960944728386832026105908079321150731457058032763450990625421787354590121030046166052195671136331108161413093100061631287405261702729808662541182784610789959448628180889005342450185120984849120980079346193045106080668491092195504938947903204575836127401794053037960893829467598485644984534096232421180597034987558660454001416346059227054736051259952181667737953969102983856359923413054710887625884751846496725375306458030450828577120177415123194726396963179600701480807723493554046556842449919506271903369356823859496541421138660133620443835542416059105699117606312953638483493572796241394883000065067183406610506692634399058516203517212908055585341313675602081054691390445632652050432",
+            "strlen_2432_64": "1",
+            "strlen_2528_64": "1",
+            "sym_argv_0_80": "354177486284764267610112",
+            "mem_e00000000000000c_1331_8": "75",
+            "mem_dfffffffffffffe2_1537_240": "1152436646731148421485476964417032506081291819882068836352",
+            "strncmp_ret_2433_64": "0",
+            "strlen_2430_64": "1"
+        },
+        389.3430919647217,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/setuidgid/setuidgid224469": [
+        "sat",
+        1.366654396057129,
+        999999999,
+        {
+            "mem_8_911_8": "255",
+            "mem_9_912_8": "255",
+            "mem_a_913_8": "255",
+            "mem_b_914_8": "255",
+            "mem_c_915_8": "255",
+            "mem_d_1041_8": "255",
+            "mem_e_1072_8": "255",
+            "mem_f_1088_8": "255",
+            "mem_10_1103_8": "255",
+            "mem_11_1104_8": "255",
+            "mem_12_1105_8": "255",
+            "mem_13_1106_8": "255",
+            "mem_14_1107_8": "255",
+            "mem_15_1108_8": "255",
+            "mem_16_1109_8": "255",
+            "mem_17_1110_8": "255",
+            "mem_18_1111_8": "255",
+            "mem_19_1112_8": "255",
+            "unconstrained_ret_mbrtowc_2320_64": "13835058055282163712",
+            "unconstrained_ret_mbrtowc_2154_64": "1419676219644837916",
+            "mem_7_910_8": "255",
+            "unconstrained_ret_mbrtowc_2744_64": "14969459386030751768",
+            "unconstrained_ret_mbrtowc_2234_64": "13835058055282163712",
+            "unconstrained_ret_mbrtowc_2575_64": "16694562494009573373",
+            "unconstrained_ret_mbrtowc_2407_64": "9311166515619299328",
+            "unconstrained_ret_mbrtowc_2492_64": "17854942935175397376",
+            "unconstrained_ret_mbrtowc_2074_64": "13835058055282163709",
+            "mem_1a_1212_816": "3427411716652659840832134642797712556963661392646886557307972489442963813123753814998410754923723160840278181931831809777823190304972082007049332856070992015006979834542617052866354538226466315559704563369289232177497456864694373112731444183040",
+            "unconstrained_ret_mbrtowc_2658_64": "8925482725930958848",
+            "strlen_2056_64": "56"
+        },
+        68.72066259384155,
+        "succeed",
+        5.086,
+        [
+            [
+                "unconstrained_ret_mbrtowc_2575_64",
+                2298540065
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail209219": [
+        "sat",
+        4.093108177185059,
+        999999999,
+        {
+            "unconstrained_ret_lseek_5670_64": "4322298990465658881",
+            "unconstrained_ret_lseek_5705_64": "6339900190525960193"
+        },
+        485.5417413711548,
+        "succeed",
+        38.038,
+        [
+            [
+                "unconstrained_ret_lseek_5670_64",
+                3536912369728247344
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/printenv/printenv10229": [
+        "sat",
+        0.7554783821105957,
+        999999999,
+        {
+            "sym_argc_3_8": "127",
+            "k!4682620": "2097169"
+        },
+        6.611469030380249,
+        "succeed",
+        0.059,
+        [
+            [
+                "k!4682620",
+                33207
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail147702": [
+        "sat",
+        19.207573175430298,
+        999999999,
+        {
+            "k!46608210": "True",
+            "unconstrained_ret_lseek_4252_64": "18446744073609772877"
+        },
+        978.0375790596008,
+        "succeed",
+        0.014,
+        [
+            [
+                "unconstrained_ret_lseek_4252_64",
+                18446744073642442771
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq108121": [
+        "sat",
+        1.7691900730133057,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_3094_64": "8878116039884275745",
+            "unconstrained_ret_mbrtowc_1698_64": "11018056488361918444",
+            "unconstrained_ret_mbrtowc_2741_64": "6881500230622117887",
+            "mem_1_1518_8": "129",
+            "unconstrained_ret_mbrtowc_3447_64": "8365436307840696322",
+            "unconstrained_ret_mbrtowc_1867_64": "2429691998966382593",
+            "unconstrained_ret_mbrtowc_2224_64": "6858982232485265423",
+            "unconstrained_ret_mbrtowc_2047_64": "11499941648490561575",
+            "unconstrained_ret_mbrtowc_2922_64": "8765130774769827841",
+            "mem_2_1662_1008": "688454785103521717114470431521532143695610056273861279386604171100385553789449154154061258869164082013684164026321134122337409531704974751486344779879545752728195945388354965520999984379064583347286592552345631112477209908856294458628284748499105959591176253609038911836758376986873393442800319896485888",
+            "unconstrained_ret_mbrtowc_2400_64": "12213762189428785116",
+            "unconstrained_ret_mbrtowc_2572_64": "9331458427911667712",
+            "unconstrained_ret_mbrtowc_3274_64": "5991644029786259457",
+            "strlen_1663_64": "39"
+        },
+        29.905284881591797,
+        "succeed",
+        0.885,
+        [
+            [
+                "unconstrained_ret_mbrtowc_2047_64",
+                2298540065
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/printenv/printenv11280": [
+        "sat",
+        0.7109637260437012,
+        999999999,
+        {
+            "sym_argc_3_8": "248",
+            "k!5376280": "21"
+        },
+        44.79974031448364,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who257135": [
+        "sat",
+        20.0865957736969,
+        999999999,
+        {
+            "strncmp_ret_9915_64": "0",
+            "mem_8000000000000008_2220_288": "3872005743035218754600369583556141570149920036739775922837405744820196529225563374080",
+            "strlen_9996_64": "31",
+            "mem_2_1858_2712": "970121506850129046545368655558922318089569712669940172069779914664042791747022752128917673160883418610438658339234984437131006792612203790848818521912339095517128090622116658290170864772490312762338259600315195444948165221253333373886534050859558442198534946319907732445208113335956314286745058248351254970672129854047320385045313803319827602517516971755140659490287034954372597992021839446657648981918625184512207386102598945073215151110248205751059431152786181078851647416585660132585145967721851698790677278018670312485032109614451901453496999045759683673361197266421257640354898781274759266551331075157638164636726636965595138345056228840451097468429302572553747715916306696256533885618034165173518534237772110302041647522374808376385361882950227313565343527206488612914368628359186317292716559780780092164145152",
+            "mem_800000000000002d_2221_2712": "19326130056464044889065243326492505051987992476451343468120736650331563845627075785475255588099405496984958011774532845128694577418901170187058764842922424845410100968051316647418305559146240690566228866810492496862349077830151435059431135258098868924332050931201618920242506473663867116822224678573325056382886634720918152577437432057716603707603104005447786303411429158392903015763992149043315945494151269995069930254059533838240616239067791241281197249437381846329944525975346664926247779473742797487707351762014129364674255387792461413992241725735232743207229055141396029733920449969440465997831414926735568650394171137729329302554147146703082653897984108688816603780183408802736912537837783080437682911637170939485330199396696584012406295790095426778869801778084316366169977790828265353868070610646970690174976",
+            "strlen_9914_64": "36",
+            "strlen_9995_64": "31",
+            "mem_1_1552_8": "47",
+            "strncmp_ret_9997_64": "0",
+            "strlen_10204_64": "31"
+        },
+        617.9593622684479,
+        "succeed",
+        20.262,
+        [
+            [
+                "mem_8000000000000008_2220_288",
+                850058865831025192206336
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/wc/wc32606": [
+        "sat",
+        9.96357011795044,
+        999999999,
+        {
+            "mem_c0000ff0_3062_64": "3243562615717888255"
+        },
+        3.7355308532714844,
+        "succeed",
+        0.014,
+        [
+            [
+                "mem_c0000ff0_3062_64",
+                1548097734660063232
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail94436": [
+        "sat",
+        54.329262495040894,
+        999999999,
+        {
+            "unconstrained_ret_lseek_2666_64": "9223372727484743331",
+            "unconstrained_ret_lseek_2766_64": "3715051937443"
+        },
+        4866.241817951202,
+        "succeed",
+        44.889,
+        [
+            [
+                "unconstrained_ret_lseek_2666_64",
+                1073770497
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum90836": [
+        "sat",
+        1.752694845199585,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3591_64": "15384259738833189679",
+            "unconstrained_ret_fread_unlocked_2814_64": "2996046590143102976",
+            "unconstrained_ret_fread_unlocked_2291_64": "12655838569001126555",
+            "unconstrained_ret_fread_unlocked_2353_64": "3315320852471349688",
+            "unconstrained_ret_fread_unlocked_2704_64": "504966098797390472",
+            "unconstrained_ret_fread_unlocked_3374_64": "10191839195855898749",
+            "unconstrained_ret_fread_unlocked_3485_64": "13088673278464100270",
+            "unconstrained_ret_fread_unlocked_2246_64": "9529616619968568456",
+            "unconstrained_ret_fread_unlocked_2453_64": "5981610436426989568",
+            "unconstrained_ret_fread_unlocked_2213_64": "684547027204027123",
+            "unconstrained_ret_fread_unlocked_2596_64": "4611686018427387904",
+            "unconstrained_ret_fread_unlocked_3155_64": "13764121205212645362",
+            "unconstrained_ret_fread_unlocked_3046_64": "902110766880847872",
+            "unconstrained_ret_fread_unlocked_2938_64": "11183853982464600565",
+            "unconstrained_ret_fread_unlocked_3265_64": "5885973582143555489",
+            "unconstrained_ret_fread_unlocked_3700_64": "0"
+        },
+        32.10801029205322,
+        "succeed",
+        1.173,
+        [
+            [
+                "unconstrained_ret_fread_unlocked_2246_64",
+                2298540065
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum75116": [
+        "sat",
+        123.03963112831116,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "10270076868731963384",
+            "unconstrained_ret_fread_unlocked_3226_64": "9476699515894369442",
+            "unconstrained_ret_fread_unlocked_2275_64": "6102333053363362116",
+            "unconstrained_ret_fread_unlocked_2538_64": "6479339538972909663",
+            "unconstrained_ret_fread_unlocked_3447_64": "14087259634414911489",
+            "unconstrained_ret_fread_unlocked_2339_64": "13150703356508897377",
+            "unconstrained_ret_fread_unlocked_2888_64": "8066435444060719966",
+            "unconstrained_ret_fread_unlocked_2778_64": "16454868810118197751",
+            "unconstrained_ret_fread_unlocked_3006_64": "9927453175540087508",
+            "unconstrained_ret_fread_unlocked_3116_64": "1707319055276309313",
+            "unconstrained_ret_fread_unlocked_2417_64": "17568261419718921727",
+            "unconstrained_ret_fread_unlocked_3332_64": "10569948325438554113",
+            "unconstrained_ret_fread_unlocked_3557_64": "5266510317927657498"
+        },
+        3405.0811219215393,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail91697": [
+        "sat",
+        13.974662780761719,
+        999999999,
+        {
+            "unconstrained_ret_lseek_2666_64": "2144140826282788698",
+            "unconstrained_ret_lseek_2766_64": "6388160599292651354"
+        },
+        9.192848443984985,
+        "succeed",
+        1.504,
+        [
+            [
+                "unconstrained_ret_lseek_2666_64",
+                1548097734660063232
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq147511": [
+        "sat",
+        469.9771273136139,
+        999999999,
+        {
+            "mem_2_280_1008": "688454785103521717100013446529266471354104839693525338627615481240263230327216891228321832220684347022243678493075655902114018611779549861374353387040080988418662775007077161975136804568738891558852513250719200593991322422556337398179048283259365059832659734843562688570357980120154696467914826117545984",
+            "unconstrained_ret_mbrtowc_3694_64": "15823696108750693895",
+            "unconstrained_ret_mbrtowc_4219_64": "5372653305500532475",
+            "unconstrained_ret_mbrtowc_3174_64": "8227394330778705286",
+            "unconstrained_ret_mbrtowc_3349_64": "12838294986723693313",
+            "unconstrained_ret_mbrtowc_3525_64": "12284786242789132896",
+            "unconstrained_ret_mbrtowc_4046_64": "7695149163198857027",
+            "unconstrained_ret_mbrtowc_4558_64": "7598671789634981104",
+            "unconstrained_ret_mbrtowc_2818_64": "17003784857783884065",
+            "unconstrained_ret_mbrtowc_2476_64": "8448709465014771166",
+            "unconstrained_ret_mbrtowc_3874_64": "7006885633046064450",
+            "unconstrained_ret_mbrtowc_4737_64": "11876979297014120768",
+            "unconstrained_ret_mbrtowc_4389_64": "14679258208627112600",
+            "unconstrained_ret_mbrtowc_2301_64": "5694724187327089641",
+            "unconstrained_ret_mbrtowc_2647_64": "17677716036900041951",
+            "mem_1_263_8": "200",
+            "unconstrained_ret_mbrtowc_4911_64": "14051282064977118971",
+            "unconstrained_ret_mbrtowc_2998_64": "5741612480769306682",
+            "unconstrained_ret_mbrtowc_5084_64": "12445842578259409867",
+            "strlen_414_64": "13"
+        },
+        7557.4191472530365,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq135088": [
+        "sat",
+        47.40351390838623,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_4046_64": "871270606035746816",
+            "unconstrained_ret_mbrtowc_2998_64": "2485986994308513806",
+            "unconstrained_ret_mbrtowc_4219_64": "3796534485873328128",
+            "unconstrained_ret_mbrtowc_3174_64": "3458764513820540928",
+            "unconstrained_ret_mbrtowc_4558_64": "15969359605763407877",
+            "unconstrained_ret_mbrtowc_3694_64": "9764746780091632264",
+            "unconstrained_ret_mbrtowc_2818_64": "6413125869375586316",
+            "unconstrained_ret_mbrtowc_2476_64": "14771806777775226881",
+            "unconstrained_ret_mbrtowc_3874_64": "13761206585594478592",
+            "unconstrained_ret_mbrtowc_4389_64": "5664965532235487184",
+            "unconstrained_ret_mbrtowc_2301_64": "3110493621316347240",
+            "unconstrained_ret_mbrtowc_2647_64": "13510798882111488000",
+            "mem_1_263_8": "127",
+            "unconstrained_ret_mbrtowc_3525_64": "6865465281464465457",
+            "unconstrained_ret_mbrtowc_3349_64": "10235938906491060235",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947156654659234382225920940040243643562950920282556258285136894680946567050042885638831398506762593894044165869873170401985066850046172719176679726722845788725956121131977240713877936769204390600668271499638769124504235009469404867918298745157976064",
+            "strlen_414_64": "53"
+        },
+        2235.3911674022675,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/date/date47809": [
+        "sat",
+        73.70606899261475,
+        999999999,
+        {
+            "tv_sec_2121_64": "7069058990080"
+        },
+        1803.3797271251678,
+        "succeed",
+        0.018,
+        [
+            [
+                "tv_sec_2121_64",
+                9617370594910
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who96228": [
+        "sat",
+        12.718336820602417,
+        999999999,
+        {
+            "strlen_4133_64": "1",
+            "mem_fffffffffff8302d_3331_2712": "17645403851243179838744669593697630091636000699013672640336949823384449355778038172239101137996245613988623079494286365990205960083670517451501728761648122441877525978864000869856386747354484585476183062546223156919414696287964824306915434959613372653026091049541274042953125561628359627639285833572183416931315177672109020340444053976989220577115861446283517866412534440882616759939143837982649652276625607060608765303913781658705535679162272633236349274424682540124882176392725319128932560383808939626733098732381737327390072254350225640634919964156723616068048241592567186191322303327898971744892693128888939883131948497452253904666201034519950770413472404419871047323042126173951657591341815389660615614734323290627426632784265216943396747810267302788554143416922559731515290128898209673352677687296",
+            "strncmp_ret_4134_64": "0",
+            "strlen_4276_64": "1",
+            "mem_fffffffffff83008_3330_288": "13598741532037966251248417226484721833804369242304134725340774103588135193487895166976"
+        },
+        806.1866681575775,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/who/who212355": [
+        "sat",
+        6.370446681976318,
+        999999999,
+        {
+            "strlen_8320_64": "6",
+            "strlen_8519_64": "1",
+            "strlen_8379_64": "1",
+            "mem_8000000000000008_2220_288": "91305437934609266359755875378017781469131696865509342468954526051790173327054770012160",
+            "strlen_8380_64": "1",
+            "mem_2_1858_2712": "970121506951386535936916708160264045337456435169088252024007072214918390832440183641403161066657921449038290330701100774905077055829856375197459723266664648720012234465080073205906790186346747717440555799478304061627058875084540055297563988481686229970043308057519837305803971620250063574084953499350745580599989486745954582866466734701479436211123082998205243555593321392167729459404942366996331775580335824297950938059866599842024564956196505988093776461892736912456977637743882500824191509915636218456204301430280012042674601488935310324667562877642990991845066630636019699438615187770749834744087902470521750646430927326232559794933681014946024275564883670713538181368333516788414221803459086625753236158077330328362359050577547527622134552862797659628236814073745258508984409921118838788294678088240886884335616",
+            "mem_800000000000002d_2221_2712": "3398433020972872254490725227412064773150872952704599884842879696858611303893756680415207477142503943873055208074444500038897874602744291983899704627168529813916927777944887391243799518397389367177484790351894877725427449810982925693846283809274238772006267081615415605424249307272312296823970910600332888811258934639652795360650393076677395718682946321185829322866414368991870168547057242655732559565794366379483142102002273673352796451504364477592941760272554811030663870212398620397628389095994352604237130680654704621903009687668245160686918874937434125516247324859303360107712977458585657138462407412374974478762211703128316474900340214703485999343228531331196139059195845440460151208722133080615836128161841798839169125964760930286700440264519068025289392005316608",
+            "strncmp_ret_8321_64": "0",
+            "mem_1_1552_8": "47",
+            "strncmp_ret_8381_64": "0"
+        },
+        1248.0965497493744,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/expand/expand435338": [
+        "sat",
+        3.7996644973754883,
+        999999999,
+        {
+            "mem_8_3314_8": "255",
+            "unconstrained_ret_mbrtowc_13474_64": "1114168085828720638",
+            "unconstrained_ret_mbrtowc_12295_64": "8832539999692914681",
+            "mem_7_3210_8": "255",
+            "unconstrained_ret_mbrtowc_12822_64": "11349299494421909648",
+            "unconstrained_ret_mbrtowc_12975_64": "3998759840684339138",
+            "unconstrained_ret_mbrtowc_12483_64": "4128165694454890512",
+            "strlen_4140_64": "56",
+            "unconstrained_ret_mbrtowc_13139_64": "3956189305905431863",
+            "unconstrained_ret_mbrtowc_12670_64": "5402418592647696359",
+            "unconstrained_ret_mbrtowc_11938_64": "13806332015031615363",
+            "mem_9_3324_968": "19567061858272546562037751686391751399092091218901076816714953023439968833287361256581759151041406535954201427065771074331345897131183934115694866673645505923674698137007092368171522040207477157682929158260023866828816984960495795682546749749939953588953507609913604266839179884627337674752",
+            "unconstrained_ret_mbrtowc_12122_64": "3942010275447701480",
+            "unconstrained_ret_mbrtowc_13323_64": "17257092990722986728"
+        },
+        87.90869760513306,
+        "succeed",
+        57.294,
+        [
+            [
+                "unconstrained_ret_mbrtowc_12483_64",
+                2298540065
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/wc/wc9501": [
+        "sat",
+        2.1377882957458496,
+        999999999,
+        {
+            "mem_c0000f58_1105_64": "14540839243651853820"
+        },
+        3.5446135997772217,
+        "succeed",
+        0.014,
+        [
+            [
+                "mem_c0000f58_1105_64",
+                1548097734660063232
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/tail/tail91294": [
+        "sat",
+        14.217662572860718,
+        999999999,
+        {
+            "k!8562450": "True",
+            "unconstrained_ret_lseek_2666_64": "9342199020"
+        },
+        725.4193179607391,
+        "succeed",
+        0.015,
+        [
+            [
+                "unconstrained_ret_lseek_2666_64",
+                3198276822
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum79290": [
+        "sat",
+        45.13627767562866,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_3093_64": "18203908997235041561",
+            "unconstrained_ret_fread_unlocked_2514_64": "6552692925633075726",
+            "unconstrained_ret_fread_unlocked_2757_64": "9123460850356518924",
+            "unconstrained_ret_fread_unlocked_3310_64": "2131561337594816513",
+            "unconstrained_ret_fread_unlocked_2866_64": "3796059170096955585",
+            "unconstrained_ret_fread_unlocked_3203_64": "5748343421369608529",
+            "unconstrained_ret_fread_unlocked_3533_64": "2112602596479719967",
+            "unconstrained_ret_fread_unlocked_3642_64": "4320799328173471116",
+            "unconstrained_ret_fread_unlocked_2321_64": "8241859297156061225",
+            "unconstrained_ret_fread_unlocked_2982_64": "5954339069445006530",
+            "unconstrained_ret_fread_unlocked_2634_64": "1426397919690223603",
+            "unconstrained_ret_fread_unlocked_3421_64": "689359320014785030",
+            "unconstrained_ret_fread_unlocked_2395_64": "5485592061592922184"
+        },
+        1504.4363963603973,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/sha1sum/sha1sum75096": [
+        "sat",
+        60.65350127220154,
+        999999999,
+        {
+            "unconstrained_ret_fread_unlocked_2670_64": "1594946330701391820",
+            "unconstrained_ret_fread_unlocked_3226_64": "17694880419619241983",
+            "unconstrained_ret_fread_unlocked_2275_64": "18262232374303526669",
+            "unconstrained_ret_fread_unlocked_2538_64": "2694842564783727587",
+            "unconstrained_ret_fread_unlocked_3447_64": "9159218678950791201",
+            "unconstrained_ret_fread_unlocked_2339_64": "17180634209478835133",
+            "unconstrained_ret_fread_unlocked_2888_64": "6820712360735541172",
+            "unconstrained_ret_fread_unlocked_2778_64": "18321879137360412367",
+            "unconstrained_ret_fread_unlocked_3006_64": "7484881174851075265",
+            "unconstrained_ret_fread_unlocked_3116_64": "2246426090362125834",
+            "unconstrained_ret_fread_unlocked_2417_64": "17405757071143746087",
+            "unconstrained_ret_fread_unlocked_3332_64": "3614195071903629281",
+            "unconstrained_ret_fread_unlocked_3557_64": "6646603031772816934"
+        },
+        1664.6942970752716,
+        "failed"
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/date/date121416": [
+        "sat",
+        0.4748704433441162,
+        999999999,
+        {
+            "unconstrained_ret_mktime_68691_64": "9029898770919907984"
+        },
+        3.879110097885132,
+        "succeed",
+        0.015,
+        [
+            [
+                "unconstrained_ret_mktime_68691_64",
+                1548097734660063232
+            ]
+        ]
+    ],
+    "/home/lz/baidudisk/smt/gnu_angr.tar.gz/single_test/seq/seq143546": [
+        "sat",
+        44.70982789993286,
+        999999999,
+        {
+            "unconstrained_ret_mbrtowc_4911_64": "12834581998256075776",
+            "unconstrained_ret_mbrtowc_3694_64": "10195586393983793013",
+            "unconstrained_ret_mbrtowc_4219_64": "6260331876519486591",
+            "unconstrained_ret_mbrtowc_3174_64": "8106969033741833698",
+            "unconstrained_ret_mbrtowc_3525_64": "15841351968381673549",
+            "unconstrained_ret_mbrtowc_4046_64": "12783295623213921496",
+            "unconstrained_ret_mbrtowc_4558_64": "12427161797445518015",
+            "unconstrained_ret_mbrtowc_2818_64": "10381399820706430985",
+            "unconstrained_ret_mbrtowc_2476_64": "11039400797315623930",
+            "unconstrained_ret_mbrtowc_3874_64": "2291332469036445284",
+            "unconstrained_ret_mbrtowc_4737_64": "8231346872661707701",
+            "unconstrained_ret_mbrtowc_4389_64": "3643284561061639501",
+            "unconstrained_ret_mbrtowc_2301_64": "1901618187183581931",
+            "unconstrained_ret_mbrtowc_2647_64": "13158913160830817279",
+            "mem_1_263_8": "127",
+            "mem_2_280_1008": "688454785103521717100013448745094468548182909046441095947156654659234382225920940040243643562950920282556258285136894680947608481258478699869783573548828220368220810808278934928565632663745343685684186806624096308433518394001825576993363014526686733074498043916725421907497300734961151754460173512474624",
+            "unconstrained_ret_mbrtowc_2998_64": "9978511857532936832",
+            "unconstrained_ret_mbrtowc_3349_64": "8498866171804927392",
+            "strlen_414_64": "59"
+        },
+        7630.081960916519,
+        "failed"
+    ]
+}
